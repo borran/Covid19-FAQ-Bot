@@ -46,3 +46,6 @@ We learned how well Google DialogFlow works and what are its limitations.
 - Giancarlo Bergamin
 - Fatemeh Borran
 - Melanie Calame
+
+## DISCLAIMER: 
+We do not in any form represent the official authorities. We simply consume the information available to the public. Nevertheless we are looking forward to receive advice from information providers at [https://www.bag.admin.ch/bag/en/home.html](https://www.bag.admin.ch/bag/en/home.html)
