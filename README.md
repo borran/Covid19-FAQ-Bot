@@ -76,6 +76,32 @@ We learned how well Google DialogFlow works and what are its limitations.
 5. Write IMPORT and press IMPORT.
 6. To test you can choose the language from left side and then start talking or writing on the left side.
 
+## Integration with Voximplant
+
+This section will guide you through the steps you need to take in order to integrate your Dialogflow with Voximplant to support a telephony voice assistant.
+
+### Dialogflow
+There are a few things to do in your Dialogflow project.
+
+**Text to Speech**
+
+In your Dialogflow project, please make sure the feature Text to Speech is enabled. You can check this by going to you project settings > Speech. The output audio encoding should be set to mp3.
+
+**Export key**
+In order for Voximplant to be able to access your Dialogflow project, you need to export a service key. In your project setting > General click on the Service Account link (similar to dialogflow-txlcac@yourproject.iam.gserviceaccount.com). Click on the three dots next to the Dialog Integrations entry and click on "create key". Download the generated .json file. 
+
+## Voximplant
+**Installation**
+First, sign up to Voximplant. Then select Marketplace from the Menu and install the Dialogflow Connector. Provide the .json file containing the service key for the installation.
+
+**Numbers**
+In the Numbers tab you can check which number(s) is/are attached to your application and edit them according to your needs. You can also buy new phone numbers. This has the advantage that you can offer phone numbers in countries which are not covered by Voximplant's default numbers and you don't require a code to set off the voice assistant
+
+**Support multiple languages**
+If you want to support multiple languages, you need to install an application in Voximplant as described above for every language and attach them to separate phone numbers/separate codes.
+
+To select the language supported by the application you need to open the application and go to "Scenarios". There on the lines 16 and 20 you need to adapt the language according to your requirements. 
+
 ## Contributors:
 - Mostafa Ajallooeian
 - Giancarlo Bergamin
