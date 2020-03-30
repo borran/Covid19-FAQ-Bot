@@ -1,0 +1,50 @@
+[
+  {
+    "id": "068db552-ed06-4bfd-8cdf-dc6ca9cd9121",
+    "data": [
+      {
+        "text": "Dürfen Bauarbeiten weitergehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a144c7b0-e1c9-4362-b18d-bb10c486c28f",
+    "data": [
+      {
+        "text": "Dürfen Baustellen offen bleiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a1eb8fb-866c-4380-b8eb-d3fb003fed44",
+    "data": [
+      {
+        "text": "Regelung Baustellen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "faf6ad8d-f6ea-49cf-b282-afac64d547d0",
+    "data": [
+      {
+        "text": " Was gilt für Baustellen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

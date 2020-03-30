@@ -1,0 +1,82 @@
+[
+  {
+    "id": "4eb354f4-63b3-48b0-b686-b61a89c0f362",
+    "data": [
+      {
+        "text": "Muss mein Betrieb geschlossen werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9280c46-552f-424a-95ab-e370d558416d",
+    "data": [
+      {
+        "text": "Welche ",
+        "userDefined": false
+      },
+      {
+        "text": "Betriebe",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " müssen schliessen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90c60dc7-2391-4997-9085-d9a2578bdbd3",
+    "data": [
+      {
+        "text": "Bei welchen Dienstleistungen gibt es zu viel Körperkontakt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51a22523-6054-4540-8491-88f899837fb2",
+    "data": [
+      {
+        "text": "Welche ",
+        "userDefined": false
+      },
+      {
+        "text": "Geschäfte",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " müssen schliessen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2755cea0-5a4e-4241-b123-b4f0b95b3c60",
+    "data": [
+      {
+        "text": " Betriebe, bei deren Dienstleistungen es zu Körperkontakt kommt, sind zu schliessen. Welche Dienstleitungsbetriebe sind davon betroffen, welche nicht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

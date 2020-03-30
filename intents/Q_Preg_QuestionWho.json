@@ -1,0 +1,43 @@
+{
+  "id": "98569d2a-152b-42f2-a60c-f9c96eed177d",
+  "name": "Q_Preg_QuestionWho",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "If you have specific questions about your pregnancy, please contact your gynaecologist or midwife. They can assess your situation and discuss any measures you need to take.\n\nIf you experience any symptoms that could indicate a coronavirus infection, call your gynaecologist to discuss further steps."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Bei individuellen Fragen rund um Ihre Schwangerschaft wenden Sie sich an Ihre Frauenärztin, Ihren Frauenarzt, Ihre Hebamme oder Ihren Entbindungspfleger. Sie können Ihre Situation beurteilen und nötige Massnahmen mit Ihnen besprechen.\n\nWenn Sie Krankheitssymptome verspüren, die für eine Coronavirus-Infektion sprechen, rufen Sie eine der oben genannten Personen an, um weitere Schritte zu besprechen."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Pour des questions particulières sur la grossesse, vous pouvez vous adresser à votre gynécologue ou votre sage-femme. Ils évalueront la situation et conviendront avec vous des mesures à prendre.  Si vous ressentez des symptômes évoquant une infection au coronavirus, téléphonez à l\u0027une des personnes mentionnées plus haut pour convenir de la marche à suivre."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

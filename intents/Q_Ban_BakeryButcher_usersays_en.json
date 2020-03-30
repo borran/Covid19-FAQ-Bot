@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4652716f-e7ff-4b34-b0fa-cbbfff092643",
+    "data": [
+      {
+        "text": "Are butchers open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d7a7563-7a7c-4efe-a9a0-a2b1e192289a",
+    "data": [
+      {
+        "text": "Are bakeries open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39ae7a7e-0b93-4d50-89a2-8b8b022c8f37",
+    "data": [
+      {
+        "text": "Can bakeries and butchers also stay open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

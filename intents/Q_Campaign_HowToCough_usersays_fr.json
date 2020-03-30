@@ -1,0 +1,62 @@
+[
+  {
+    "id": "9027004c-c438-4f0d-ac08-3aefb417630b",
+    "data": [
+      {
+        "text": "Comment dois-je tousser sans infecter les autres?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43aa0a30-1c17-4526-bcc5-ea956b99008c",
+    "data": [
+      {
+        "text": " Quelles sont les règles concernant la toux?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ff8dc28-bf11-4040-a63d-5fcc38780af5",
+    "data": [
+      {
+        "text": " Comment tousser?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c4fa33c-c5a8-4634-9c48-f020d0a68820",
+    "data": [
+      {
+        "text": "Comment puis-je réduire ou éviter le risque de propagation du virus en toussant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21ff3421-f259-44fc-937c-17125e557435",
+    "data": [
+      {
+        "text": "Comment puis-je réduire le risque de propagation ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

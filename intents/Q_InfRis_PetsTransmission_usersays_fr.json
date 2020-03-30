@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cf7b8e70-57cc-4a05-ba34-d79410f34e6f",
+    "data": [
+      {
+        "text": "Est-ce que les animaux peuvent tomber malade avec le nouveau coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59c1b96a-01c0-4abe-a0f4-4aa00633edaa",
+    "data": [
+      {
+        "text": "Quel est le risque que les animaux de compagnie (chats, chiens, lapins, etc.) soient infectés par le coronavirus ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

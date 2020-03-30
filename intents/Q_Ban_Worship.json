@@ -1,0 +1,56 @@
+{
+  "id": "df71038a-7856-4784-96ea-d10777f339bc",
+  "name": "Q_Ban_Worship",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7a822aa3-e7ce-43f4-891b-77c4c09c20e9",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Gottesdienst sind verboten. Wenn Sie aber alleine ein Gotteshaus besuchen möchten, dann können Sie das.\n\nKommen Sie in Kontakt zu anderen Personen, dann halten Sie den Abstand von 2 Metern ein – und halten Sie sich bitte an die Hygiene- und Verhaltensregeln."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Religious services are not permitted. However, you may visit a place of worship if you are alone. If you still come into contact with other people, keep at least 2 meters apart and follow the rules on hygiene and how to behave."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Les services religieux sont interdits. Vous avez cependant le droit d’aller seul dans un lieu de culte.\n\nSi vous entrez en contact avec d’autres personnes, gardez une distance de 2 mètres – et respectez les règles d’hygiène et de conduite."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

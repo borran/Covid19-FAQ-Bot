@@ -1,0 +1,56 @@
+{
+  "id": "8a9c5639-be37-45d3-a6d8-64ae78806c9f",
+  "name": "Q_Ban_ChildrenMeet",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a08695ca-d777-425a-9feb-4b21679d6ed9",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Wir verstehen, dass die Betreuung der Kinder in der aktuellen Situation herausfordernd ist. Aber es ist wichtig, dass sich jetzt keine grösseren Gruppen von Kindern in Parks oder anderen Orten treffen. Treffen von kleinen Gruppen mit 5 Kindern sind möglich. Wichtig ist, dass dann die Eltern oder andere Erwachsene nicht zusammenkommen. Vor allem müssen ältere Menschen und andere gefährdete Personen den Kontakt zu Kindern meiden.\n\nHalten Sie bei allen Treffen die Hygiene- und Verhaltensregeln ein (Abstand halten)."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Small groups of children are allowed (up to around 5 children). The FOPH’s rules on hygiene and keeping your distance should be followed as much as possible."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Nous savons que la prise en charge des enfants dans la situation actuelle représente un défi. Il est cependant important qu’il n’y ait pas de grands groupes d’enfants dans les parcs ou ailleurs. Les petits groupes, c’est-à-dire jusqu’à 5 enfants, sont autorisés. Il est important que les parents ou d\u0027autres adultes ne se réunissent pas. Les personnes âgées ou vulnérables doivent éviter tout contact avec des enfants.\n\nÀ chaque fois, respectez les règles d’hygiène et de conduite (garder ses distances)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

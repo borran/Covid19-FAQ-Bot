@@ -1,0 +1,37 @@
+{
+  "id": "02702e8e-8825-414a-ae40-044892263d14",
+  "name": "Q_Campaign_StayHome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Stay at home from now on. \n\nExcept in the following cases:\n\n    You have to buy groceries.\n    You have to go to the doctor’s/to the pharmacy.\n    You have to help others.\n    You are unable to work from home and have to go to work.\n\nIf you are over the age of 65 or have an underlying medical condition, we strongly recommend you stay at home!\n\nThe only exception:\n\n    You have to go to the doctor."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Rester à la maison dès maintenant.\nExceptions : lorsque vous devez\n\nfaire des courses\naller chez le médecin ou à la pharmacie\naider quelqu’un qui a besoin de soutien\naller au travail parce que le télétravail n’est pas possible\nSi vous avez plus de 65 ans ou avez une maladie, nous vous recommandons instamment de rester chez vous.\n\nSeule exception :\n\nsi vous devez aller chez le médecin."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

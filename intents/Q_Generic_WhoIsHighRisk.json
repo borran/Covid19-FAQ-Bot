@@ -1,0 +1,31 @@
+{
+  "id": "44969457-0c89-4989-a492-c69f12f7c658",
+  "name": "Q_Generic_WhoIsHighRisk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "People with one of the following underlying medical conditions are at a higher risk of becoming severely ill:\n\n    High blood pressure\n    Diabetes\n    Cardiovascular disease\n    Chronic respiratory diseases\n    Conditions and therapies that weaken the immune system\n    Cancer"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6c8305ac-fffd-4494-a548-162f9eacb9fc",
+    "data": [
+      {
+        "text": "Est-ce que le coronavirus reste sur des objets?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7a36dd6-025d-4269-98fe-ef87fd96b242",
+    "data": [
+      {
+        "text": "Sur quelles surfaces le coronavirus peut-il se fixer ? Combien de temps y reste-t-il contagieux ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

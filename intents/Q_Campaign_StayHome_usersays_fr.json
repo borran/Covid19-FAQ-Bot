@@ -1,0 +1,35 @@
+[
+  {
+    "id": "3be35162-6fe5-4cac-90ba-983c414e9545",
+    "data": [
+      {
+        "text": " Puis-je aller faire des courses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49f646f6-d7e3-41ce-90f7-a8bee67f3497",
+    "data": [
+      {
+        "text": "Qui doit rester à ",
+        "userDefined": false
+      },
+      {
+        "text": "la maison",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

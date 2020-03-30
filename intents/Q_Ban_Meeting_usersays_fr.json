@@ -1,0 +1,38 @@
+[
+  {
+    "id": "311b7b7b-1e58-4ec1-93fb-8785e33b9245",
+    "data": [
+      {
+        "text": "Puis-je participer à une assemblée?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c521cd1-25b8-4f12-8d3a-0841090698f8",
+    "data": [
+      {
+        "text": "Puis-je organiser une assemblée?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f1ce899-e255-4042-b886-622ed598d453",
+    "data": [
+      {
+        "text": "Puis-je organiser une assemblée générale ou y participer ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

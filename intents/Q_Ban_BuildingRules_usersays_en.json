@@ -1,0 +1,26 @@
+[
+  {
+    "id": "beb19bc9-8196-4415-b886-3534cd1a48b7",
+    "data": [
+      {
+        "text": "Can building construction continue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bda8cb6-ea83-4f0e-a464-e90cc74266b5",
+    "data": [
+      {
+        "text": " What are the rules for building sites?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

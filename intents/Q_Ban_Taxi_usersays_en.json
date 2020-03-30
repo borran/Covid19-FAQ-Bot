@@ -1,0 +1,74 @@
+[
+  {
+    "id": "b3c18aaa-69d5-4731-9002-48cc70aa196d",
+    "data": [
+      {
+        "text": "I do not have a car and I need to take a taxi. Is that allowed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d2d4ece-6655-4b4e-b771-ce8c9db2da89",
+    "data": [
+      {
+        "text": "Can I get a taxi to go somewhere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f768409-4550-4425-9c31-c334166ff4e1",
+    "data": [
+      {
+        "text": "Are taxis banned?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1187dd7-2550-40f7-9997-9897e1563b7b",
+    "data": [
+      {
+        "text": "Can I take a taxi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0bdfb159-7111-40ee-afe9-51389a4aa7de",
+    "data": [
+      {
+        "text": "Are taxis operating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb41d420-1a23-47e4-a844-535617de76ef",
+    "data": [
+      {
+        "text": "Are taxi firms and other private transport services also covered by the ban?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

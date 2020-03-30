@@ -1,0 +1,66 @@
+[
+  {
+    "id": "fa2f4348-c4a0-40c1-afec-f95e46c86b78",
+    "data": [
+      {
+        "text": "Muss ",
+        "userDefined": false
+      },
+      {
+        "text": "mein Laden",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " abgetrennt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87e0a170-8377-4694-9189-533b10f27be8",
+    "data": [
+      {
+        "text": "Müssen Läden Bereiche absperren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "470c5293-2b46-4dd1-87ed-163d4b91e0f1",
+    "data": [
+      {
+        "text": "Nicht alltägliche ",
+        "userDefined": false
+      },
+      {
+        "text": "Waren",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4f07066-bfb0-4516-97a4-d420ef27caa9",
+    "data": [
+      {
+        "text": " Ein Laden bietet neben dem Angebot für den täglichen Bedarf auch andere Waren an. Muss dieser Bereiche abgesperrt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

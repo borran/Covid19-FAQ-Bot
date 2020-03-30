@@ -1,0 +1,47 @@
+[
+  {
+    "id": "51232168-f9ee-4dce-948f-da2cc56eff73",
+    "data": [
+      {
+        "text": "Comment se laver les mains pour ne pas être infecté?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cfa279b-f900-43a0-adfc-f77afe782661",
+    "data": [
+      {
+        "text": "Instructions de ",
+        "userDefined": false
+      },
+      {
+        "text": "lavage",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " des mains?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd2efe90-ab6c-4492-a2f7-df67ed56e62c",
+    "data": [
+      {
+        "text": "Quand se laver les mains ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

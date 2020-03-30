@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3aceac08-8d82-47fc-988a-35dc7ae0416a",
+    "data": [
+      {
+        "text": "Quelles sont les recommendation sur la distance à respecter?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd9e9597-be4c-45f3-88d5-50d7011fb6ef",
+    "data": [
+      {
+        "text": "Combien de distance il faut respecter?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5c45091-63b3-4786-89ba-c48b58bbe190",
+    "data": [
+      {
+        "text": "Quelles sont les règles de distance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a5ffd447-b7e8-434a-a480-79b4a56ba447",
+    "data": [
+      {
+        "text": "Est-ce qu\u0027on peut inviter des amis ou des familles à la maison?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ef1dee5-a887-441b-8c45-1a0338eb3128",
+    "data": [
+      {
+        "text": "Est-il raisonnable d\u0027inviter des amis à la maison pour un repas ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

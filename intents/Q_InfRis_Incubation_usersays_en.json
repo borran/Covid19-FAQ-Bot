@@ -1,0 +1,60 @@
+[
+  {
+    "id": "89d6a9f8-dbc7-4cff-942c-87cf144c90c8",
+    "data": [
+      {
+        "text": "What is the time between infection and the appearance of the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2dabe4c0-6f19-438a-ae29-20d8dcbce682",
+    "data": [
+      {
+        "text": "How long can I carry corona before knowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6bd9a73-42fa-490a-bace-bdbeab771576",
+    "data": [
+      {
+        "text": "How long is the incubation period?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6679dfe-e4d3-4517-aca6-d43f55dc6689",
+    "data": [
+      {
+        "text": "How long is the period between infection and the appearance of symptoms? And when do people become contagious?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

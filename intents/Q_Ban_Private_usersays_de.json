@@ -1,0 +1,48 @@
+[
+  {
+    "id": "373e823e-3aaa-466c-8d6f-4b31decca1f9",
+    "data": [
+      {
+        "text": "Darf ich bei Freunden zu Besuch gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b137772e-cc55-4abe-8c2d-435d9674df6f",
+    "data": [
+      {
+        "text": "Darf ich Freunde zum ",
+        "userDefined": false
+      },
+      {
+        "text": "Abendessen",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " einladen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9fb48c1-72fe-4a0f-b727-9145bb16f2f8",
+    "data": [
+      {
+        "text": " Ist ein Abendessen mit Freunden zu Hause noch sinnvoll?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

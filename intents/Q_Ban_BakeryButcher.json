@@ -1,0 +1,56 @@
+{
+  "id": "48630869-5e8a-4e33-8ffc-84940a48f8ee",
+  "name": "Q_Ban_BakeryButcher",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3f8a96da-6014-476c-9813-86e49f81002b",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Ja, sie gelten als Lebensmittelläden und müssen daher nicht schliessen.\n\nBäckereien dürfen allerdings nur über die Theke verkaufen. Haben sie einen Bereich mit Bedienung, dann müssen sie ihn schliessen."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Yes, bakeries and butchers are considered food stores and therefore do not have to close. However, bakeries may only sell goods over the counter. If they have a café section, that must remain closed."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Les boulangeries et boucheries peuvent rester ouvertes. Elles sont considérées comme des magasins d’alimentation et n’ont donc pas besoin de fermer.\n\nLes boulangeries ne peuvent cependant que vendre des produits au comptoir. La partie proposant un service à table doit fermer."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

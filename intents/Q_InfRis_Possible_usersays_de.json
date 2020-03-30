@@ -1,0 +1,81 @@
+[
+  {
+    "id": "313e4812-3cb3-48c3-a822-b9a9e5d12b92",
+    "data": [
+      {
+        "text": "Infektionsrisiko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95b65e5f-dc5d-4d4f-bafb-6a6911918c4b",
+    "data": [
+      {
+        "text": "Riskio ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Infektion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9d4a08a-446a-48a0-8cce-3a37cb3f9cb7",
+    "data": [
+      {
+        "text": "Kann ich mich in der Schweiz mit Corona anstecken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e0009bd-520c-4dcf-a23f-b1fee807478a",
+    "data": [
+      {
+        "text": "Kann ich mich in ",
+        "userDefined": false
+      },
+      {
+        "text": "der Schweiz",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " anstecken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b77249c-e526-401b-8b78-5926779da4fd",
+    "data": [
+      {
+        "text": "Kann man sich in der Schweiz mit dem neuen Coronavirus anstecken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

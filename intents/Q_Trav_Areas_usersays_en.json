@@ -1,0 +1,38 @@
+[
+  {
+    "id": "07eaedfc-206d-48b6-8491-61a44d60c32e",
+    "data": [
+      {
+        "text": "Where are the affected areas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bef5b3d-8dac-48b8-a3cf-ebb9af050105",
+    "data": [
+      {
+        "text": "Affected areas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65dcce13-8d8e-4890-87d9-3ef5f4008efb",
+    "data": [
+      {
+        "text": "why is reference no longer being made to ‘affected areas\u0027?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

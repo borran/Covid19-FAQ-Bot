@@ -1,0 +1,56 @@
+{
+  "id": "9131660c-c567-4c85-bc86-fcc9c60039d8",
+  "name": "Q_Ban_Taxi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "da731113-4bc9-4bb6-87c5-72f360b4b82f",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Nein, sie dürfen ihren Betrieb aufrechterhalten. Dabei müssen sie sich aber strikt an die Hygiene-Regeln halten."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Taxis can continue to operate. But the FOPH’s rules must be strictly adhered to including maintaining an appropriate distance between people."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Non, ces services peuvent continuer leur activité. Les règles d’hygiène de l’OFSP doivent être strictement respectées."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

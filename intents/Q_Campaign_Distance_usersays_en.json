@@ -1,0 +1,38 @@
+[
+  {
+    "id": "d3900e3e-bfd6-4de9-b6ca-a8815dc49fa5",
+    "data": [
+      {
+        "text": "Rules about distance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94d55777-be32-4d99-9ab3-6f3bfdb51974",
+    "data": [
+      {
+        "text": "What are the recommendations about distance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8d5d27f-e8f6-4587-8d53-a56b875a8230",
+    "data": [
+      {
+        "text": "How should I keep distance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

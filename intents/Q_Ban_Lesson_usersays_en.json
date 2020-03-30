@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cd581813-9892-43a2-85c7-e739c2d2b6c0",
+    "data": [
+      {
+        "text": "Driving school",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5befdbb8-a0e1-4136-833c-b6c6bb0e9e92",
+    "data": [
+      {
+        "text": "Driving lessons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b58c59fb-ed9f-475c-a81e-8cac6cfa5cf2",
+    "data": [
+      {
+        "text": "Can I still take my driving lessons?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

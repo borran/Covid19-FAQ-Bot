@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a20c5d23-e54f-445c-92b1-d129f76256a9",
+    "data": [
+      {
+        "text": "Wass much ich beachten, wenn ich Ibuprofen einnehme?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adf10a4c-1eb4-4556-94c7-3da0cb065876",
+    "data": [
+      {
+        "text": "Kann ich Ibuprofen verwenden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "164f2624-c67f-4faf-aad3-31bd08fd7dae",
+    "data": [
+      {
+        "text": " Gibt es einen Zusammenhang zwischen Ibuprofen und der Krankheit Covid-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "415782f2-9c07-49ce-80c1-81d95d929c2f",
+    "data": [
+      {
+        "text": "Est-ce que les salons de coiffure peuvent rester ouvert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88c848dd-cd53-458e-8b7a-317aa3f936fe",
+    "data": [
+      {
+        "text": "Quels établissement doivent fermer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abc21c4f-5691-48d0-97e9-4add9ba4b859",
+    "data": [
+      {
+        "text": "Les établissements dont les prestations impliquent un contact physique doivent fermer. Quels sont les établissements concernés ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

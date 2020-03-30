@@ -1,0 +1,43 @@
+{
+  "id": "d4d60b61-4e93-4b1e-bc08-dcb4b34bcaa2",
+  "name": "Q_Ban_BuildingRules",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Baustellen sind von den Verboten nicht erfasst und müssen nicht geschlossen werden."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Building sites are not affected by the new rules and do not have to close."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Les chantiers ne sont pas concernés par l’interdiction et n’ont pas besoin de fermer."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

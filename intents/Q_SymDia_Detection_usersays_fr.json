@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4e40505d-4b39-4dfa-a801-ce34791a77ea",
+    "data": [
+      {
+        "text": "Y a t\u0027il un test pour confirmer si on a le coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "841e940e-7352-4f3d-966e-66c199828789",
+    "data": [
+      {
+        "text": "Comment on peut detecter le nouveau coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8fcf9c1-4425-4829-a6f7-390402a4bfc0",
+    "data": [
+      {
+        "text": "Comment une infection au nouveau coronavirus est-elle diagnostiquée ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

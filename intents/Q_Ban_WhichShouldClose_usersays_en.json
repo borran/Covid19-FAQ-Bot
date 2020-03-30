@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6ada1a73-5779-45b6-ad92-41483a275090",
+    "data": [
+      {
+        "text": "Which businesses are banned?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75f6e42b-575b-47ad-a830-77bc10a4356d",
+    "data": [
+      {
+        "text": "Which businesses should close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4cbd5d9c-f9e9-420a-b2f3-501d209903bd",
+    "data": [
+      {
+        "text": " Establishments providing personal services involving physical contact have to close. Which businesses are affected and which aren\u0027t?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "4b4e2ae4-af79-4544-a8fe-4cf4d58b5827",
+  "name": "Q_Ban_WhichShouldClose",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "75493904-7e41-46b4-9ccb-a4d43a763cdf",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Zu schliessen sind zum Beispiel: Coiffeur- und Massagesalons, Tattoo- und Kosmetikstudios, Fahrschulen oder Solarien.\n\nGeöffnet bleiben zum Beispiel: Beratungsdienstleistungen ohne Kundenkontakt vor Ort sowie Praxen und Einrichtungen von Gesundheitsfachpersonen (siehe Frage weiter unten). Diese Betriebe müssen die Hygiene- und Verhaltensregeln befolgen, und alle Personen müssen voneinander genügend Abstand halten können."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Establishments providing personal services involving physical contact have to close. Service providers affected include hairdressers, massage and tattoo parlours, cosmetic studios and driving schools. Establishments offering only advisory services are not included. In going about their business, all these establishments must follow the FOPH’s recommendations. Rules on hygiene must be adhered to and people must keep sufficient distance from one another."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Les établissements dont les prestations impliquent un contact physique doivent fermer. Doivent fermer par exemple : salon de coiffure, de massage, de tatouage et de cosmétique, auto-écoles, solariums.\n\nRestent ouverts par exemple : prestations de conseil sans contact physique sur place, ainsi que les cabinets et les établissements des professionnels de la santé. Dans ces cas-là, les règles d’hygiène et de conduite doivent être respectées, et les personnes doivent garder une distance suffisante entre elles."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

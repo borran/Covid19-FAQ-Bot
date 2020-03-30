@@ -1,0 +1,56 @@
+{
+  "id": "73f6503b-c1a7-4f2b-aff6-a8460fd89d6d",
+  "name": "Q_SymDia_Detection",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9a0f664c-9e74-4597-8881-729ea7ebd573",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Every suspected case of infection with the new coronavirus must be investigated by a doctor. The doctor will ask questions about travel, contact with other people and symptoms such as fever, coughing or respiratory problems.\n\nLaboratory testing is the only way of obtaining conclusive confirmation. A lab test can be done, for example, with a nose and throat swab (nasopharyngeal swab). If the lab confirms infection, the person who has contracted the disease will be isolated in accordance with the cantonal medical officer’s instructions."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Die Symptome einer Erkrankung mit dem neuen Coronavirus unterscheiden sich nicht deutlich von denen anderer viraler Infektionen der Atemwege (Erkältung oder Grippe). Daher kann eine Erkrankung nur durch eine Laboranalyse sicher bestätigt werden. Dazu kann beispielsweise ein Abstrich aus Nase und Rachen genommen werden.\n\nDa die Krankheit in den meisten Fällen mild verläuft, werden nicht alle Personen auf das neue Coronavirus getestet. Getestet werden besonders gefährdete Personen mit Krankheitssymptomen und solche, bei denen sich die Krankheitssymptome verstärken (hohes Fieber, Atembeschwerden oder Atemnot).\n\nHaben Sie Husten und Fieber, und die Symptome sind leicht und bessern sich rasch? Dann bleiben Sie zu Hause, bis Sie 48 Stunden lang keine Symptome mehr hatten (siehe Seite «Selbst-Isolation und Selbst-Quarantäne» sowie das Merkblatt «Selbst-Isolierung» weiter unten im Register «Dokumente»)."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Les symptômes de la maladie causée par le nouveau coronavirus ne sont pas différents de ceux causés par d’autres infections virales affectant les voies respiratoires (refroidissement ou grippe). Seule une analyse en laboratoire peut donc confirmer une infection. Cela peut se faire par exemple à l’aide d’un frottis au niveau du nez et du pharynx.\n\nÉtant donné que la maladie ne cause généralement pas de problèmes majeurs, toutes les personnes ne sont pas testées. La priorité est mise sur les personnes particulièrement à risque qui présentent des symptômes et sur celles chez qui les symptômes de la maladie s’intensifient (fièvre élevée, difficultés à respirer ou détresse respiratoire)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

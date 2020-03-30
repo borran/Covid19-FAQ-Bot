@@ -1,0 +1,92 @@
+{
+  "id": "8e9bc96d-f384-4667-ab86-f8d9d5599336",
+  "name": "Q_Ban_Concert",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "97069dc3-532c-4232-bb40-6c262c0d7660",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "117f8a85-530e-43d6-bada-3c13939dcd5b",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "bb4f6752-9b6c-4c21-985d-cfff442d6fb8",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "dbe93208-8f46-45a7-bba7-0cedd235045c",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Nein, das ist nicht möglich. Verboten sind zum Beispiel:\n\nKonzerte\nKongresse\nTheater\nKinos\nZirkus\nPartys\nSportveranstaltungen\nDemonstrationen\nQuartier- und Dorffeste\nJahr- und Lebensmittelmärkte\nFirmenjubiläen\nTage der offenen Türe"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "No, that’s not possible right now. The following events, for example, are not permitted: Concerts, Conferences, Theater performances, Cinema performances, Circuses, Parties, Sports events, Demonstrations, Street or village parties, Fairs and farmers’ markets, Company events, Open days"
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Les concerts, les congrès, le théâtre, le cinéma, les cirques, les fêtes ne sont pas autorisé. Ainsi que les choses suivantes sont interdites (exemples) :\n\nÉvènements sportifs\nManifestations politiques\nFêtes de quartier et de village\nFêtes foraines\nMarchés\nAnniversaire d’entreprise\nJournées portes ouvertes"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

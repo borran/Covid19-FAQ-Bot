@@ -1,0 +1,104 @@
+[
+  {
+    "id": "f54104c5-c367-4f50-9680-913686e54366",
+    "data": [
+      {
+        "text": "I have cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad4113cd-e65c-4f9a-8727-cadcddd7fefa",
+    "data": [
+      {
+        "text": "I have chronic respiratory diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96ae3eea-3cd5-404c-9f9b-bbeed9489847",
+    "data": [
+      {
+        "text": "I have diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "49e4487b-48a7-4fb7-9031-bdddc93d15dc",
+    "data": [
+      {
+        "text": "I have high blood pressure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3832f382-d2db-4a28-bf58-f5319487890a",
+    "data": [
+      {
+        "text": "I have a chronic disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee419cc2-40b3-49cc-ac68-5f0937a14afe",
+    "data": [
+      {
+        "text": "I have underlying medical condition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "004552d4-8ec8-49ff-bb01-8272412982c9",
+    "data": [
+      {
+        "text": "I am over ",
+        "userDefined": false
+      },
+      {
+        "text": "65",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fb2b80f-6d41-40d1-8f65-7be1161cac59",
+    "data": [
+      {
+        "text": "Am I vulnerable?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

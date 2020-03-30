@@ -1,0 +1,43 @@
+{
+  "id": "864b0ab0-7176-4ce3-8cc1-c12a57781fc8",
+  "name": "Q_Ban_Demo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Nein, Demonstrationen sind verboten, sie dürfen auch nicht daran teilnehmen."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "No, organising or participating in demonstrations is not allowed."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Non, les manifestations sont interdites. Vous n’avez pas non plus le droit d’y participer."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

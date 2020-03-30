@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0eda2fc0-00b4-4ebf-8a75-b4cf47224c64",
+    "data": [
+      {
+        "text": "Who is in danger?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "923e7e20-6649-473f-a85d-2253bdf93e6c",
+    "data": [
+      {
+        "text": "Who are impacted the most?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df4624af-d5b4-4b4d-a696-28b8054eebd9",
+    "data": [
+      {
+        "text": "Who is at high risk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b11af5b-7e56-4ed4-8ebc-2bf6fd863082",
+    "data": [
+      {
+        "text": "Who are in the risk group?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c64cbf72-d89e-4232-9fdd-4e978ae10969",
+    "data": [
+      {
+        "text": "Who is high risk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

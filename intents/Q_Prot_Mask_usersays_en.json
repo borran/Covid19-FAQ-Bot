@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1be74e53-f264-47ec-a776-0e4d501f2d17",
+    "data": [
+      {
+        "text": "I see someone wearing a mask",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c822925e-b146-4fee-a32c-8d5257c0dace",
+    "data": [
+      {
+        "text": "Should we use masks?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55d92f56-7fbe-4a4b-866c-e0b718c1d412",
+    "data": [
+      {
+        "text": "Do I need a mask?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfa7fe2c-6d9b-4eb5-ab7f-71601dce7d93",
+    "data": [
+      {
+        "text": "Should I wear a mask?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72fe428c-3371-4460-b83c-326248643a3a",
+    "data": [
+      {
+        "text": " Should I wear a hygienic mask?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

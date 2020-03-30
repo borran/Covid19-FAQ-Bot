@@ -1,0 +1,53 @@
+{
+  "id": "36aa8b71-30d6-463f-816d-36e3056920a6",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Bonjour! Je sais répondre à vos questions sur le corona virus COVID19. Comment puis-je aider?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Greetings! I can answer your questions about the corona virus COVID19. How can I assist?"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Guten Tag! Ich kann ihre Fragen zum Corona Virus COVID19 beantworten. Wie kann ich Ihnen helfen?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "TELEPHONY_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

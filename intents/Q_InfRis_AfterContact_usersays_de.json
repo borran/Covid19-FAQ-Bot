@@ -1,0 +1,88 @@
+[
+  {
+    "id": "baeb9f1a-a657-40e5-a727-f8bd690ec0ba",
+    "data": [
+      {
+        "text": "Ich hatte Kontakt mit einer mit dem neuen Coronavirus infizierten Person, was muss ich jetzt tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab4de50a-a571-47f2-ac0f-c82e455953e6",
+    "data": [
+      {
+        "text": "Was muss ich tun, wenn ich mit ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " mit dem neuen Coronavirus infizierten Person Kontakt ",
+        "userDefined": false
+      },
+      {
+        "text": "hatten",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c540897-bbe2-4add-905f-34c125086b5e",
+    "data": [
+      {
+        "text": "Was müssen ",
+        "userDefined": false
+      },
+      {
+        "text": "Sie tun",
+        "alias": "person",
+        "meta": "@sys.person",
+        "userDefined": false
+      },
+      {
+        "text": ", wenn Sie mit ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " mit dem neuen Coronavirus infizierten Person Kontakt ",
+        "userDefined": false
+      },
+      {
+        "text": "hatten",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

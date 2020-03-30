@@ -1,0 +1,26 @@
+[
+  {
+    "id": "b26593a9-e188-4ac1-aad3-09a2264c4da8",
+    "data": [
+      {
+        "text": "Est-ce qu\u0027on a besoin d\u0027un masque pour se protéger?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03d4e0f9-3853-40b9-9e82-d277dd33b8a1",
+    "data": [
+      {
+        "text": " Dois-je porter un masque d\u0027hygiène ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

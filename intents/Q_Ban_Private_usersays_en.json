@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01080f35-a18b-470f-8354-3ca8abff3bf4",
+    "data": [
+      {
+        "text": "Beer with a friend at home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be62c5c4-f386-4029-95eb-756e4639d6a7",
+    "data": [
+      {
+        "text": "Private meal with friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1edf119-0e1b-415b-a1d3-0ffa1e24d754",
+    "data": [
+      {
+        "text": "Can I have a private meetup with a friend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af72a920-068d-466c-a0a8-3f42c50a27ab",
+    "data": [
+      {
+        "text": " Does a private meal with friends count as a prohibited event?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

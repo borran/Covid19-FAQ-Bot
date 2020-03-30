@@ -1,0 +1,56 @@
+{
+  "id": "65e9b8b3-27e8-44ac-b706-013288364dee",
+  "name": "Q_BloDon_Give",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f80b8a44-3731-4df0-9798-26f23a253f95",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Dans la situation actuelle liée au coronavirus, les personnes gravement malades ou blessées restent tributaires des dons de sang.  Si vous êtes en bonne santé, vous pouvez continuer à faire des dons. Les centres de transfusion sanguine s\u0027engagent à respecter les règles d\u0027hygiène et de conduite (garder ses distances).  Veuillez impérativement prendre rendez-vous avant de vous y rendre. Les heures d\u0027ouverture générales des centres et les dates des collectes mobiles sont disponibles sous https://www.blutspende.ch/fr/dates-de-collecte-de-sang."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Auch in der aktuellen Situation aufgrund des Coronavirus sind schwerkranke oder verletzte Menschen auf Blutspenden angewiesen.\n\nWenn Sie gesund sind, können Sie weiterhin wie gewohnt Blut spenden. Die Blutspendezentren verpflichten sich, während der Blutspende die Hygiene- und Verhaltensregeln (Abstand halten) einzuhalten.\n\nBitte vereinbaren Sie zwingend einen Termin, bevor Sie sich zum Blutspendezentrum begeben. Die Öffnungszeiten der Blutspendezentren und die Termine der mobilen Blutspendeaktionen finden Sie unter www.blutspende.ch/de/blutspendetermine."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Even in the current situation with the coronavirus, people who are seriously ill or injured need blood transfusions.\n\nIf you are healthy, you can still give blood as usual. Blood donation centres guarantee that they will comply with the rules on hygiene and social distancing while you are giving blood.\n\nPlease be sure to arrange an appointment before going to a blood donation centre. You will find a list of opening hours for blood donation centres and mobile blood donation campaigns at www.blutspende.ch/de/blutspendetermine."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

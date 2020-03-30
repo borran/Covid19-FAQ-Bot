@@ -1,0 +1,43 @@
+{
+  "id": "4c62ea08-e9a7-4e4c-85a2-09950ed2cd63",
+  "name": "Q_InfRis_PetOwnerIsolation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Pet owners in isolation must as far as possible avoid contact with their pets (cats, dogs, rabbits, etc.). They should have a healthy person look after their animals.\n\nIf dogs have to go outside, they should be kept on a lead and stay outdoors only briefly. If possible the person accompanying them should avoid contact with other people and animals.\n\nDogs and cats from a household in quarantine do not have to be specially bathed or disinfected.\n\nThe following rule applies to everyone: wash your hands after contact with an animal.\n\nMore detailed information on handling animals during this extraordinary situation due to the coronavirus can be found on the Federal Food Safety and Veterinary Office FSVO."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Les détenteurs d’animaux qui sont isolés à la maison en raison du coronavirus doivent éviter autant que possible tout contact avec leurs animaux de compagnie (chats, chiens, lapins, etc.). Une personne en bonne santé doit s’occuper de leurs animaux.\n\nSi les chiens doivent sortir, ils doivent être tenus en laisse et la promenade doit être brève. Il faut éviter autant que possible le contact avec d’autres personnes et d’autres animaux.\n\nLes chiens et les chats qui se trouvent dans un foyer en quarantaine ne doivent pas spécialement être toilettés ou désinfectés.\n\nLa mesure suivante vaut pour tous : se laver les mains après tout contact avec un animal.\n\nVous trouverez des informations plus précises sur les règles concernant les animaux durant la situation extraordinaire due au coronavirus sur le site de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Solche Tierhalterinnen und Tierhalter müssen den Kontakt zu ihren Haustieren (Katzen, Hunde, Kaninchen etc.) möglichst vermeiden. Eine gesunde Person soll ihre Tiere betreuen.\n\nMüssen Hunde nach draussen, dann nur angeleint und kurz. Einen Kontakt zu anderen Menschen und Tieren müssen die Betreuer möglichst vermeiden.\n\nHunde und Katzen aus einem Quarantänehaushalt müssen nicht speziell gebadet oder desinfiziert werden.\n\nFür alle gilt: Hände waschen nach dem Kontakt mit einem Tier.\n\nVertiefte Informationen zum Umgang mit Tieren während der ausserordentlichen Situation wegen des Coronavirus finden Sie auf der Seite des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen BLV."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

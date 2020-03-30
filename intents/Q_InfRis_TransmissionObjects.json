@@ -1,0 +1,43 @@
+{
+  "id": "feffde79-e0ec-4472-ae1d-054a1514e5fd",
+  "name": "Q_InfRis_TransmissionObjects",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "If a person infected with coronavirus sneezes or coughs into the air, instead of into a tissue or the crook of their arm, droplets containing the virus land on surfaces. If you then come into contact with these surfaces and touch your eyes, nose or mouth with your hand, the virus can get into your body and you can become infected.\n\nImportant:\n\n    Wash your hands regularly and thoroughly with soap and water.\n    Avoid touching your face.\n    Cough or sneeze into a paper tissue or the crook of your arm.\n    Wash your hands every time you cough or sneeze.."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Oui. Lorsqu\u0027une personne atteinte par le coronavirus éternue ou tousse en l\u0027air - au lieu d\u0027utiliser un mouchoir ou le creux de son coude -, des gouttelettes contenant des virus se fixent sur des surfaces. Si votre main entre en contact avec ces dernières et que vous touchez ensuite vos yeux, votre nez ou votre bouche, les virus pénètrent dans le corps et vous pouvez être infecté.  Important :  se laver les mains régulièrement et soigneusement avec du savon ne pas se toucher le visage tousser et éternuer dans un mouchoir ou dans le creux du coude, puis se laver les mains"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Ja. Wenn eine mit dem Coronavirus infizierte Person – anstatt in ein Taschentuch oder die Armbeuge – in die Luft niest oder hustet, bleiben Tröpfchen mit Viren auf Oberflächen haften. Berühren Sie diese danach und greifen sich mit der Hand an Auge, Nase oder Mund, gelangen die Viren in den Körper. Sie können sich infizieren.\n\nWichtig:\n\nWaschen Sie sich regelmässig und gründlich die Hände mit Wasser und Seife.\nFassen Sie sich nicht ins Gesicht.\nHusten oder niesen Sie in ein Papiertaschentuch oder die Armbeuge.\nWaschen Sie nach jedem Husten und Niesen die Hände."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

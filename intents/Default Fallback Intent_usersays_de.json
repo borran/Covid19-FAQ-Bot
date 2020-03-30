@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1812c44e-8b2f-4bff-bdd7-e9842d49ceae",
+    "data": [
+      {
+        "text": "Darf ich noch raus gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c5d7450c-c328-4efa-96da-f87e5f703742",
+    "data": [
+      {
+        "text": "wie soll ich mich im Alltag verhalten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

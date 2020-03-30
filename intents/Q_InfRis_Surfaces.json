@@ -1,0 +1,43 @@
+{
+  "id": "65c98a44-ef35-46b3-ba48-8f48b109e297",
+  "name": "Q_InfRis_Surfaces",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The virus can cling to surfaces and objects.\n\nAt the moment, there are no clear indications as to how long the virus can remain infectious on different surfaces.\n\nImportant: Regularly clean objects or surfaces that you touch frequently. Use a regular cleaning product."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Le virus peut se fixer des surfaces et des objets.  Actuellement, aucune information précise n\u0027est disponible sur la durée pendant laquelle les virus restent infectieux sur les différentes surfaces.  Important : nettoyez régulièrement les surfaces et les objets que vous utilisez souvent avec un produit de nettoyage ménager courant."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Das Virus kann auf Oberflächen und Gegenständen haften bleiben.\n\nMomentan liegen keine exakten Erkenntnisse vor, wie lange die Viren auf verschiedenen Oberflächen ansteckend bleiben.\n\nWichtig: Reinigen Sie regelmässig Gegenstände oder Oberflächen, die Sie häufig berühren. Verwenden Sie dazu ein normales Reinigungsmittel."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

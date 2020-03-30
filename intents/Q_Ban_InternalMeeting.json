@@ -1,0 +1,43 @@
+{
+  "id": "30c4356a-4bfd-41ca-9f7c-24e8b71fc382",
+  "name": "Q_Ban_InternalMeeting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Interne Meetings sind weiterhin erlaubt. Allerdings müssen die Teilnehmenden die Hygiene- und Verhaltensregeln einhalten (Hände waschen, keine Hände schütteln, Abstand halten). Beschränken Sie die Anzahl der Sitzungsteilnehmerinnen und -teilnehmer. Als Referenzwert gilt ca. 4m2 pro Person. Das bedeutet: In einem Sitzungszimmer von 4 x 8 Metern sollten nicht mehr als 8 Personen gleichzeitig anwesend sein."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Internal meetings are still allowed. But those attending the meeting must follow the rules on hygiene and how to behave around others (i.e. wash your hands, do not shake hands, keep your distance). Limit the number of participants. As a guideline roughly 4m2 per person. That means in a room measuring 4m x 8m there should be no more than 8 people present."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Les séances internes sont toujours autorisées. Les personnes présentes doivent cependant respecter les règles d’hygiène et de conduite (se laver les mains, ne pas se serrer la main, garder ses distances). Il faut limiter le nombre de participants. Comme valeur de référence, chaque personne a besoin d’environ 4m2. Par exemple, une salle de 4 x 8 mètres ne devrait pas accueillir plus de 8 personnes en même temps."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

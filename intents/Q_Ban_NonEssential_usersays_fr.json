@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6b1a6f2f-1793-4380-8d91-2777057f83fd",
+    "data": [
+      {
+        "text": "Est-ce que les petits magasins peuvent rester ouvert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27946c8c-0d65-4543-a811-42074b01abac",
+    "data": [
+      {
+        "text": "Est-ce que les petits magasins doivent respecter les mêmes consignes que les grandes magasins?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b06b417d-abf3-4a16-800c-143247b5d32e",
+    "data": [
+      {
+        "text": "Un magasin propose, à côté des biens de consommation courante, d\u0027autres produits. Ces départements doivent-ils fermer ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

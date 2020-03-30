@@ -1,0 +1,134 @@
+[
+  {
+    "id": "68e5f8f0-89b9-4df2-858a-f9d4f3bd8d3e",
+    "data": [
+      {
+        "text": "Müssen ",
+        "userDefined": false
+      },
+      {
+        "text": "Bäckereien",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " und ",
+        "userDefined": false
+      },
+      {
+        "text": "Metzgereien",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " schliessen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53c5d08a-6aba-4df4-9da6-ea7efbee5607",
+    "data": [
+      {
+        "text": "Müssen ",
+        "userDefined": false
+      },
+      {
+        "text": "Metzgereien",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " schliessen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "070af51f-bfc7-4ca8-81df-dbba2366f6f7",
+    "data": [
+      {
+        "text": "Müssen ",
+        "userDefined": false
+      },
+      {
+        "text": "Bäckereien",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " schliessen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01b58843-c7d3-4fc2-be94-58e347908863",
+    "data": [
+      {
+        "text": "Dürfen ",
+        "userDefined": false
+      },
+      {
+        "text": "Metzgereien",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " geöffnet bleiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3d05717-2bf4-42bb-a179-5620c35751f7",
+    "data": [
+      {
+        "text": "Dürfen ",
+        "userDefined": false
+      },
+      {
+        "text": "Bäckereien",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " geöffnet bleiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c59b2064-b902-4491-9c2a-ce59445e8341",
+    "data": [
+      {
+        "text": " Dürfen Bäckereien und Metzgereien geöffnet bleiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

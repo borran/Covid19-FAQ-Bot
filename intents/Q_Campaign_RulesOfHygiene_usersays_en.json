@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4e826ff8-eb95-45aa-a6fe-4e2472134c11",
+    "data": [
+      {
+        "text": "How can I avoid getting infected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9dee9e76-458a-4944-a760-97daa5180198",
+    "data": [
+      {
+        "text": "How to protect others?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8de5206-79a6-46c3-a92f-65b98d4c66e4",
+    "data": [
+      {
+        "text": "How to protect myself?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76dd4f7b-5138-4dd5-9067-cf6547bf377c",
+    "data": [
+      {
+        "text": "How can I protect myself and others against the new coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "055ff6f0-607b-4a3a-a527-a81a1dd98ad3",
+    "data": [
+      {
+        "text": "What are the rules of hygiene?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

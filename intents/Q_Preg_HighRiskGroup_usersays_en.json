@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cf1cca53-63b4-44ba-86a6-e6b8c67c7025",
+    "data": [
+      {
+        "text": "Pregnant and have other medical issues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "968917bc-15f1-44c0-81ae-4bb23c6a9f60",
+    "data": [
+      {
+        "text": " I\u0027m pregnant and am in a high-risk group as I have an underlying medical condition. What should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

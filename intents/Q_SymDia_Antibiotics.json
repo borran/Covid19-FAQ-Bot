@@ -1,0 +1,43 @@
+{
+  "id": "c12510fc-1304-4f53-9716-392f301d61c5",
+  "name": "Q_SymDia_Antibiotics",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "No. Antibiotics only work for bacteria, not viruses. For this reason it is not possible to cure the new coronavirus disease with antibiotics."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Non, les antibiotiques ne sont pas efficaces contre les virus, mais seulement contre les bactéries. Par conséquent, ils ne guérissent pas la maladie due au nouveau coronavirus."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Nein, Antibiotika wirken nicht gegen Viren, sondern nur gegen Bakterien. Deshalb kann man eine Erkrankung mit dem neuen Coronavirus nicht mit Antibiotika heilen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

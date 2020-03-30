@@ -1,0 +1,74 @@
+[
+  {
+    "id": "7e4edb1b-fc24-42ee-9682-2d82cd9271ca",
+    "data": [
+      {
+        "text": "Are cinemas open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0cb4a53-8522-4298-8cd6-ae97fd3d0905",
+    "data": [
+      {
+        "text": "Am I allowed to have a party?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fcdbdc3-738c-4c6a-b50b-7531c96f7e6d",
+    "data": [
+      {
+        "text": "Can I have a party?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "528da1d9-0ab1-4b31-8a97-31b062c1401d",
+    "data": [
+      {
+        "text": "Are theaters open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3eb4e781-181e-4f52-b7d4-9129e841ad3b",
+    "data": [
+      {
+        "text": "Are concerts going to happen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5400b62-f245-4fa3-905f-662439597f16",
+    "data": [
+      {
+        "text": " Can I still go to a concert, the theater, a party or an open day?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

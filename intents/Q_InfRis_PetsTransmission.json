@@ -1,0 +1,43 @@
+{
+  "id": "a0816e09-a575-4af8-83d1-f80fdcc51ded",
+  "name": "Q_InfRis_PetsTransmission",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Zurzeit gibt es zu dieser Frage keine vollständigen Informationen. Wissenschaftler schätzen das Risiko aber als sehr gering ein. Wenn ein Haustier zusammen mit einer am Coronavirus erkrankten Person in derselben Wohnung lebt, kann es sich möglicherweise mit dem Virus anstecken oder kontaminiert werden. Die Tiere selber zeigen keine Krankheitssymptome, das heisst sie erkranken nicht."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "At present we do not have complete information to answer this question. However, scientists believe the risk is only very small.\n\nIf a pet lives together in the same home with someone who has coronavirus disease, it might possibly become infected with the virus or contaminated. The animals themselves will not display any symptoms of illness; in other words they will not contract the disease."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Il n\u0027existe actuellement pas d\u0027informations exhaustives à ce sujet. Toutefois, les scientifiques estiment que le risque est très faible.  Les animaux vivant sous le même toit qu\u0027une personne atteinte par le coronavirus peuvent éventuellement être infectés ou contaminés. Les animaux eux-mêmes ne présentent aucun symptôme de la maladie, c\u0027est-à-dire qu\u0027ils ne tombent pas malades."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

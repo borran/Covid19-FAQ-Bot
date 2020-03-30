@@ -1,0 +1,26 @@
+[
+  {
+    "id": "60f810c1-e529-4761-9984-d39b10cf0a9d",
+    "data": [
+      {
+        "text": "est-ce que les écoles sont ouverts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2c3ffc6-4b02-4e0a-8467-fa805bfc6f07",
+    "data": [
+      {
+        "text": "comment le coronavirus est venu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

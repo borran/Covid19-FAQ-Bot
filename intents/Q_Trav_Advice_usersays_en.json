@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b5cd40d5-30af-4e5c-9ee1-a8d689815bb8",
+    "data": [
+      {
+        "text": "Tell me about traveling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17e73d0c-cb8a-4e46-a1f3-5b1ff6023359",
+    "data": [
+      {
+        "text": "Info for travelers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "684790aa-66b5-46c5-8e63-f0d286c312d4",
+    "data": [
+      {
+        "text": "What should you bear in mind if traveling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

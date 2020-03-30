@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2d6d6822-5eff-41e8-94e6-cd1e2fb84e84",
+    "data": [
+      {
+        "text": "Pourquoi il n\u0027existe plus des zones touchées?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b44e82c-049e-41e3-adee-ff32e60cb268",
+    "data": [
+      {
+        "text": "Zones touchées : pourquoi nous ne les définissons plus ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

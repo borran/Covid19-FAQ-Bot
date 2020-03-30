@@ -1,0 +1,59 @@
+{
+  "id": "3e24ef77-5285-4432-bac8-09d86414bd91",
+  "name": "Q_InfRis_Transmission",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aa144432-f5a6-482d-89ea-965dfdf984d1",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": [
+            "Le nouveau coronavirus se transmet essentiellement en cas de contacts étroits et prolongés, c\u0027est-à-dire si l\u0027on se tient à moins de 2 mètres de distance d\u0027une personne malade pendant au moins 15 minutes.  Il y a 2 type de transmission. Transmission par gouttelettes et Transmission via les mains.",
+            "si une personne malade tousse ou éternue, les virus peuvent atteindre directement les muqueuses du nez, de la bouche ou des yeux.  les gouttelettes contagieuses expulsées lors de toux ou d\u0027éternuements se retrouvent sur les mains. Les virus peuvent aussi se trouver sur une surface que l\u0027on touche. Ils atteignent la bouche, le nez ou les yeux quand on les touche."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Das neue Coronavirus wird hauptsächlich bei engem und längerem Kontakt übertragen: Wenn man zu einer erkrankten Person länger als 15 Minuten weniger als 2 Meter Abstand hält.\n\nÜbertragung durch Tröpfchen: Niest oder hustet die erkrankte Person, können die Viren direkt auf die Schleimhäute von Nase, Mund oder Augen von anderen Menschen gelangen.\n\nÜbertragung über die Hände: Ansteckende Tröpfchen gelangen beim Husten und Niesen auf die Hände. Oder man berührt eine Oberfläche, auf denen sich Viren befinden. Sie gelangen in Mund, Nase oder Augen, wenn man diese berührt."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "By close and prolonged contact: If you’re closer than two meters to a person who has contracted the illness for more than 15 minutes.\n\nBy droplet infection: If one person sneezes or coughs, the virus can be transported directly to the mucous membranes in the nose, mouth or eyes of other people.\n\nVia your hands: Infectious droplets can get onto your hands from coughing and sneezing. Or you come into contact with a surface contaminated with the virus They can then get into your system if you touch your mouth, nose or eyes."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "99e876ad-b1d8-4561-a89a-252a9e585004",
+  "name": "Q_Campaign_CallAhead",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7de53582-8161-4166-a537-8494870deb07",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Always call ahead before going to the doctor’s or the emergency department. \n\nIf you are only experiencing mild symptoms such as a temperature and a cough you don’t need to call a doctor. Doctors and healthcare facilities only have limited capacity. \n\nHowever, if you are a vulnerable person, or if your symptoms get worse (high temperature, breathing difficulties or shortness of breath), call a doctor or healthcare facility.\n\nVulnerable persons are people over the age of 65, and those with underlying medical conditions such as high blood pressure, diabetes, cardiovascular disease, chronic respiratory disease, cancer or conditions and therapies that weaken the immune system.\n\n    Call your doctor to see if you need to make an appointment.\n    Notify your doctor if you are among those at high risk.\n\nOnly go to a hospital emergency department if your condition deteriorates and your doctor cannot be reached. In such cases, you must still call ahead."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Si vous n’avez que des symptômes légers comme de la fièvre et de la toux, vous n’avez pas besoin de téléphoner à un médecin. Leurs capacités, ainsi que celles des institutions de santé, sont limitées.\nSi vous faites partie des groupes particulièrement à risque ou que vos symptômes s’intensifient (fièvre élevée, difficultés à respirer ou détresse respiratoire), appelez votre médecin ou une institution de santé.\n\nFont partie des groupes à risque les personnes de plus de 65 ans ou souffrant déjà d’une condition préexistante telle que : hypertension artérielle, diabète, maladie cardio-vasculaire, maladie chronique des voies respiratoires, maladie ou traitement qui affaiblit le système immunitaire, cancer.\n\nAu téléphone, déterminez si une consultation est nécessaire.\nDites à votre médecin si vous faites partie des groupes à risque.\nNe vous rendez aux urgences d’un hôpital que si votre état s’aggrave et que votre médecin n’est pas joignable. Dans ce cas, téléphonez d’abord aux urgences."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

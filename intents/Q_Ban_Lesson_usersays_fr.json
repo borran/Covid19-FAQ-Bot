@@ -1,0 +1,47 @@
+[
+  {
+    "id": "f241937e-026a-434b-b74e-2060866036f9",
+    "data": [
+      {
+        "text": "Est-ce que on peut avoir des cours pour le permis de conduire?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0014aeb6-6dbf-4774-aca1-7aed58e0324d",
+    "data": [
+      {
+        "text": "Est-ce que je peux suivre ",
+        "userDefined": false
+      },
+      {
+        "text": "des cours",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de conduite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bc2b29e-8c7d-4ae4-82e4-18ab46af65e0",
+    "data": [
+      {
+        "text": "Est-ce que je peux prendre des cours dans une auto-école ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

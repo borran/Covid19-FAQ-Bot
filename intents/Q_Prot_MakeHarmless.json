@@ -1,0 +1,43 @@
+{
+  "id": "4e729411-17f1-420d-b566-42ac7bc41283",
+  "name": "Q_Prot_MakeHarmless",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "If clothes or body parts have been contaminated with the new coronavirus (for example by excretions), you should wash them with soap and water. You can clean objects and surfaces with commercially available cleaning agents."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Il est recommandé de laver au savon et à l\u0027eau les vêtements et les parties du corps ayant été contaminés par le coronavirus (p. ex. via des sécrétions). Les objets et les surfaces peuvent être désinfectés avec les produits de nettoyage usuels que l\u0027on trouve dans le commerce."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Wurden Kleider oder Körperteile mit dem neuen Coronavirus verunreinigt (beispielsweise über Ausscheidungen), dann sollten Sie diese mit Wasser und Seife waschen. Gegenstände und Oberflächen können Sie mit handelsüblichen Reinigungsmitteln reinigen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "55acd35f-d877-48f8-a5e1-b9b2453f13e3",
+  "name": "Q_Ban_Commercial",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Commercial enterprises as such do not have to close and may continue to operate. However, if these businesses have premises accessible to the public, they must be closed, e.g. electrical stores or garden centers."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Si les locaux ne sont pas accessibles au public, ces entreprises n’ont pas besoin de fermer et peuvent continuer d’exercer leur activité.\n\nSi les locaux sont accessibles au public, la partie accessible au public doit fermer. Cette consigne concerne par exemple les magasins d’électroménagers ou de jardinage."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Sind Gewerbebetriebe nicht öffentlich zugänglich, müssen sie nicht schliessen und können weiterhin ihre Arbeit ausüben.\n\nSind Gewerbebetriebe öffentlich zugänglich, müssen sie den für die Kundschaft zugänglichen Teil schliessen. Dies betrifft beispielsweise Elektroläden oder Gärtnereien."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "48502ed9-4091-41ff-b124-a078d76cf218",
+    "data": [
+      {
+        "text": "c\u0027est encore possible de donner son sang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38584d23-4519-450f-9176-3346d0f4f9f1",
+    "data": [
+      {
+        "text": "Est-ce qu\u0027on peut donner du sang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60fd4446-8b8b-4be8-8294-eede0d759299",
+    "data": [
+      {
+        "text": "Est-il encore possible de donner son sang ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

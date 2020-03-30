@@ -1,0 +1,49 @@
+{
+  "id": "9a1db8ba-4726-49a5-8ce6-19392b9980d1",
+  "name": "Q_Campaign_HowWashHands",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Le lavage des mains joue un rôle clé en matière d’hygiène : il est donc important de se les laver régulièrement et d’en prendre soin pour se protéger."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Il est très important de se laver les mains correctement, car le savon ne suffit pas à éliminer les germes. Seuls un savonnage, un frottage, un rinçage et un séchage corrects permettent de s’en débarrasser. Voici la marche à suivre :\n\nMouillez-vous les mains sous l’eau courante.\nSavonnez-vous les mains, si possible avec du savon liquide.\nFrottez-vous les mains jusqu’à produire de la mousse. N’oubliez pas de frotter le dos des mains, entre les doigts, sous les ongles, puis les poignets.\nRincez-vous bien les mains sous l’eau courante.\nSéchez-vous les mains avec une serviette propre – si possible un essuie-mains en papier jetable ou un linge de tissu en rouleau (usage unique)."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Il est préférable de ne pas porter de bagues. Si vous portez une bague : enlevez-la avant de vous laver les mains, nettoyez-la avec du savon et séchez-la bien.\nPrenez soin de votre peau : une peau abîmée peut devenir un véritable nid à microbes. Utilisez au besoin une lotion hydratante pour soigner votre peau.\nPour éviter d’accumuler de la saleté sous les ongles, coupez-les courts et brossez-les régulièrement."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Wet your hands under running water.\n    Soap your hands – if possible with liquid soap.\n    Rub your hands together until you get a lather. Don’t forget to rub the backs of your hands, between your fingers, under your fingernails and your wrists.\n    Rinse your hands thoroughly with running water.\n    Dry your hands with a clean towel, if possible a disposable paper towel or a cloth roller towel.\n\n    It is best not to wear any rings. If you are wearing a ring: take it off before washing your hands, clean it with soap and dry it well.\n    Take care of your skin: damaged, chapped skin can be a hotbed of germs. Use cream to moisturise your skin.\n    Keep your fingernails short and regularly use a nailbrush to stop dirt from collecting under your nails."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

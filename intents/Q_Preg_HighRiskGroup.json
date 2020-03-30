@@ -1,0 +1,37 @@
+{
+  "id": "d7ae4943-d369-4212-a71d-05902a0885ba",
+  "name": "Q_Preg_HighRiskGroup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "If you are expecting and have an underlying medical condition, contracting the new coronavirus could be harmful to you. You would therefore be categorised as being at especially high risk.\n\nWe would strongly urge you to follow our recommendations for people at especially high risk.\n\nIf you experience symptoms of illness, contact your gynaecologist immediately to discuss the necessary steps."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Wenn Sie in Erwartung sind und eine Vorerkrankung haben, könnte eine Erkrankung mit dem neuen Coronavirus für Sie gefährlich werden. Deshalb werden Sie in diesem Zusammenhang als besonders gefährdete Person eingestuft.\n\nWir empfehlen Ihnen dringend, sich an unsere Empfehlungen für besonders gefährdete Personen zu halten.\n\nFalls bei Ihnen Krankheitssymptome auftreten, rufen Sie umgehend Ihre Frauenärztin oder Ihren Frauenarzt an, um die nötigen Schritte zu besprechen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

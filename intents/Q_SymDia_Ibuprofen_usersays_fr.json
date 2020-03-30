@@ -1,0 +1,26 @@
+[
+  {
+    "id": "e03abca5-8df1-4b2d-ae1d-9152dcbb95c4",
+    "data": [
+      {
+        "text": "Est-ce qu\u0027on peut prendre d\u0027ibuprofène si on a des symptômes de coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "157e61e0-1a6d-4d0b-98da-184cd5b5f491",
+    "data": [
+      {
+        "text": " Y a-t-il un lien entre la prise d\u0027ibuprofène et la maladie COVID-19 ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

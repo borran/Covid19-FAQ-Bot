@@ -1,0 +1,62 @@
+[
+  {
+    "id": "981d51e2-4bef-4023-9a20-74550767de99",
+    "data": [
+      {
+        "text": "Can a dog contract COVID19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11ffe37d-70ca-4ba5-9fca-996598194fe6",
+    "data": [
+      {
+        "text": "Can my pet get infected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75d021c0-b4c3-4707-896c-6d20b36312ba",
+    "data": [
+      {
+        "text": "Can my dog transmit corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1b498a1-4a46-4f5a-aa68-4aa81f59062d",
+    "data": [
+      {
+        "text": "Can my cat get corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0622c9fc-9619-4284-b488-0ead6148f0b4",
+    "data": [
+      {
+        "text": " How great is the risk that pets (cats, dogs, rabbits, etc.) will be infected by the coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": "506198ab-c951-40ed-9af1-aa0a46a929da",
+  "name": "Q_Preg_ContactInfected",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "First and foremost the same rules apply as for everyone else: you have to place yourself in quarantine.\n\nIf you experience symptoms of illness (shortness of breath, cough, high temperature), contact your gynaecologist immediately to discuss the necessary steps."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Les mêmes règles de conduite s’appliquent pour vous que pour les autres personnes : se mettre en auto-quarantaine .\n\nEn cas de symptômes (troubles respiratoires, toux, fièvre), contactez immédiatement votre gynécologue afin de convenir des mesures nécessaires."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Grundsätzlich gelten dann für Sie die gleichen Verhaltensmassnahmen wie für die alle anderen Personen: Sie begeben sich in Selbst-Quarantäne.\n\nFalls bei Ihnen Krankheitssymptome (Atembeschwerden, Husten, Fieber) auftreten, rufen Sie umgehend Ihre Frauenärztin oder Ihren Frauenarzt an, um die nötigen Schritte zu besprechen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

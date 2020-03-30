@@ -1,0 +1,56 @@
+{
+  "id": "5b7e43c6-23b0-465a-af7a-4b6e41df9c77",
+  "name": "Q_SymDia_TempCough",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fa49837f-73a3-44b7-b026-cabde6a1e3b6",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Neben Husten und/oder Fieber können Halsschmerzen, Kurzatmigkeit, Fiebergefühl oder Muskelschmerzen auf eine Coronavirus-Infektion hinweisen.\n\nEine Infektion mit dem Coronavirus kann auch ohne starke Symptome verlaufen. Manchmal tritt auch nur eines der Symptome auf.\n\nWenn Sie eines dieser Symptome haben, müssen Sie sich zu Hause in Selbst-Isolation begeben, damit Sie niemanden anstecken. Vermeiden Sie möglichst den Kontakt zu anderen Personen. Sind die Symptome leicht, dann können Sie sich selber pflegen. Halten Sie sich bitte an die Informationen auf der Seite Selbst-Isolation und Selbst-Quarantäne.\n\nWenn Sie zu den besonders gefährdeten Personen gehören oder sich die Symptome verschlimmern: Rufen Sie Ihre Ärztin oder Ihren Arzt an. Sie oder er entscheidet, ob eine medizinische Abklärung durchgeführt werden muss, oder ob Sie weiterhin zu Hause bleiben und sich selber pflegen können."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "If you are experiencing symptoms, you must stay at home in order not to infect anyone.\n\nSymptoms of illness mean:\n\n    High temperature (body temperature higher than 38 °C accompanied by a feeling of tiredness, and sometimes muscle ache),\n    The cough is dry and may be accompanied by a sore throat\n\nIf the symptoms are minor you can nurse yourself. Do not leave your home again until 48 hours after you are free of symptoms. That way you can avoid infecting other people. Continue to follow the rules on hygiene and how to behave.\n\nIf you are at a higher risk of becoming severely ill or your symptoms get worse: Call your doctor on the phone. Your doctor will decide whether you need a medical exam or whether it is sufficient for you to stay at home and nurse yourself."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Restez chez vous jusqu’à ce vous passiez 48 heures sans symptômes."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

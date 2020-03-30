@@ -1,0 +1,110 @@
+[
+  {
+    "id": "e8817433-8e69-4d30-950d-947fe1cf3588",
+    "data": [
+      {
+        "text": "How can I avoid getting infected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59cc0df6-2f82-4713-a96e-4dd62f5ed8cd",
+    "data": [
+      {
+        "text": "How can I prevent myself from getting infected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7473be41-2898-4459-ba2b-6c5e4d97d80c",
+    "data": [
+      {
+        "text": "How to protect against corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf857a9b-613e-4b00-beb2-6b5ef518f25d",
+    "data": [
+      {
+        "text": "clean contaminated areas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a0e3f40-840f-40f6-896b-bd6162bde5b4",
+    "data": [
+      {
+        "text": "cleaning product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e768eb54-f7ef-4a48-9ceb-50ca72c0d0af",
+    "data": [
+      {
+        "text": "Should I use special cleaning products?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "059f5ddc-6733-4761-9b4a-561744042daa",
+    "data": [
+      {
+        "text": "How can I clean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f15a805-015f-451f-87e6-5d6dfa441802",
+    "data": [
+      {
+        "text": "Should I clean objects?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a0f75f9-dc29-4924-9f70-5c04c350824c",
+    "data": [
+      {
+        "text": "How can the new coronavirus be rendered harmless?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

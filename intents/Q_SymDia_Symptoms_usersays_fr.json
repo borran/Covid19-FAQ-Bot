@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6775b022-367c-4a62-b452-b387be4208a8",
+    "data": [
+      {
+        "text": " Comment savoir si je suis infecté?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82fcb0c3-db21-4d3e-89c9-05aab416379f",
+    "data": [
+      {
+        "text": "Quels sont les symptômes de coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb5805de-696e-4f40-9ce7-b02f76d3ead7",
+    "data": [
+      {
+        "text": " Quels sont les symptômes de l\u0027infection au nouveau coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

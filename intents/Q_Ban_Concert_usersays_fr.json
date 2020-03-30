@@ -1,0 +1,59 @@
+[
+  {
+    "id": "e6241e48-f8cb-449a-955d-f0ba62078952",
+    "data": [
+      {
+        "text": "Est-ce que on peux participer à une journée portes ouvertes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8422175d-1f95-43a2-85e2-bf8e9e373c00",
+    "data": [
+      {
+        "text": "Est-ce que on peux participer à ",
+        "userDefined": false
+      },
+      {
+        "text": "une fête",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31d179f6-88de-42a6-8bac-3b2a51ed9f5b",
+    "data": [
+      {
+        "text": "Est-ce que je peux aller à un concert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03027de5-8ce8-4b52-9d91-ab9a3a6fe252",
+    "data": [
+      {
+        "text": "Est-ce que je peux aller au théâtre?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

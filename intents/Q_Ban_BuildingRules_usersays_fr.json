@@ -1,0 +1,26 @@
+[
+  {
+    "id": "510dd7a9-6c9f-4f55-a5bc-79d15fb9ade8",
+    "data": [
+      {
+        "text": "Est-ce qu\u0027on peut travailler dans les chantiers?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30d9fd8b-21f5-4774-a618-43bfa97c1027",
+    "data": [
+      {
+        "text": "Les travaux dans les  chantiers peuvent continuer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

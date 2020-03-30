@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9ff819df-0753-4a5b-a1cf-013b52f58f45",
+    "data": [
+      {
+        "text": "Was muss beachtet werden beim durchführen von internen Meetings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "701eae02-61a7-4cc2-b0eb-8e6ae6a7ae7b",
+    "data": [
+      {
+        "text": "Dürfen interne Meetings durchgeführt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2740151-5747-484f-b585-4e593af04b97",
+    "data": [
+      {
+        "text": "Interne Meetings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30559fc9-6a69-45d4-be38-e9a7cffaa731",
+    "data": [
+      {
+        "text": " Sind interne Meetings erlaubt? Wenn ja, unter welchen Bedingungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

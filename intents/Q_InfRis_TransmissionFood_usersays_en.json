@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2afd7f3a-aa9a-4427-a035-ff8cdc486224",
+    "data": [
+      {
+        "text": "Should I wash foodstuffs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a7c7904-8a40-45f1-a6ec-a7cb50297019",
+    "data": [
+      {
+        "text": "Can corona infect food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "768b63b3-9893-481e-b3c5-38ca9c81c08d",
+    "data": [
+      {
+        "text": " Can the new coronavirus be transmitted via foodstuffs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

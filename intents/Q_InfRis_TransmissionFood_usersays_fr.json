@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cee0a94e-3e20-4900-ba03-7ae53068b912",
+    "data": [
+      {
+        "text": "Est-ce que le coronavirus peut se transmettre par alimentation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3207b853-5d85-4335-a57b-ec2586ca9e56",
+    "data": [
+      {
+        "text": "Le nouveau coronavirus peut-il être transmis via les denrées alimentaires ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

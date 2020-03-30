@@ -1,0 +1,56 @@
+{
+  "id": "8bd311b0-b2c0-4ab8-aa94-07fa6999c10b",
+  "name": "Q_Ban_NonEssential",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8076868b-8242-40e7-98e6-2e6e5ae8a9c9",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Kleinere Läden: Waren für den täglichen Bedarf und andere stehen oft nebeneinander im gleichen Regal. Eine Absperrung von Waren für den nicht täglichen Bedarf wäre nur mit unverhältnismässigem Aufwand zu realisieren. Sie muss deshalb nicht erfolgen.\n\nGrössere Geschäfte mit verschiedenen Abteilungen: Alle Bereiche mit Waren für den nicht täglichen Bedarf müssen abgesperrt werden."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Small shops often have everyday items lined up on the shelves next to non-essential items. Blocking off non-essential items in such cases would be disproportionate and is therefore unnecessary. However, in larger stores with clearly defined sections, those containing non-essential items should be blocked off."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Dans les petits magasins, les biens de consommation courante et les autres produits se trouvent souvent sur les mêmes étagères. Les séparer représenterait une charge disproportionnée, et il n’est pas nécessaire de le faire.\n\nDans les magasins à grande surface, les rayons qui ne vendent pas de biens de consommation courante doivent fermer."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

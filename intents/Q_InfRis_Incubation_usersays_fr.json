@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21cd715f-66cd-4bd6-94c7-28c0deccb827",
+    "data": [
+      {
+        "text": " À partir de quand une personne est-elle contagieuse ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6c0487a-a26a-492f-8264-3b786a938a05",
+    "data": [
+      {
+        "text": "Combien de temps se passe-t-il entre l\u0027infection et l\u0027apparition de la maladie ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

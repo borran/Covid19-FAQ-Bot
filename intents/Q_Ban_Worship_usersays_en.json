@@ -1,0 +1,62 @@
+[
+  {
+    "id": "30606276-1386-4531-8b12-c167bbc1b5e3",
+    "data": [
+      {
+        "text": "Can I go to the church on Sunday?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc3812dc-ab3a-4e76-9651-0827984b576c",
+    "data": [
+      {
+        "text": "Can I go to a church?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "370f4bac-e229-4e9a-b2f9-2f704222a3cf",
+    "data": [
+      {
+        "text": "Can I go to the mosque?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48af6b01-6a42-407e-9187-c5b3a792a3b0",
+    "data": [
+      {
+        "text": "Can I go to the church?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8a532ce-6723-4ecc-800a-ac2de257e3ce",
+    "data": [
+      {
+        "text": "Can I go to a place of worship?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

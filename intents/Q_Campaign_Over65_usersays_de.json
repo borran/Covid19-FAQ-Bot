@@ -1,0 +1,24 @@
+[
+  {
+    "id": "e69c9d7e-2591-4a37-9e06-19574eec6ad1",
+    "data": [
+      {
+        "text": "Gibt es Sonderregelungen für Personen über ",
+        "userDefined": false
+      },
+      {
+        "text": "65",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "id": "c81b7fb9-aa52-4ee0-83a3-6e340e8db55e",
+  "name": "Q_InfRis_Incubation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "681dbd82-bc44-468e-9a75-727d9760496b",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "312763ba-4b14-465c-96c7-19f68b9c225a",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Die «Inkubationszeit» des neuen Coronavirus, das heisst die Zeitspanne zwischen der Ansteckung und dem Auftreten der ersten Symptome, beträgt meist fünf Tage. Sie kann jedoch bis zu 14 Tage dauern.\n\nWenn man an einer viralen Atemwegserkrankung (Husten, Schnupfen) leidet, ist man dann am ansteckendsten, wenn man die stärksten Symptome hat. Beim neuen Coronavirus könnte das anders sein. Man ist möglicherweise bereits vorher ansteckend: unmittelbar bevor Symptome auftreten."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The new coronavirus has an incubation period – i.e. the time between infection and the appearance of the first symptoms – of about three to seven days. However, this period can last up to 14 days.\n\nPeople with a viral respiratory disease are generally thought to be most contagious when they have the strongest symptoms. This could, however, be different for the new coronavirus. It might be that people are contagious before this: right before the appearance of their symptoms."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "La « période d’incubation » du nouveau coronavirus, c’est-à-dire le laps de temps entre l’infection et l’apparition des premiers symptômes, est généralement de cinq jours. Elle peut toutefois s’étendre jusqu’à 14 jours.\n\nLorsqu’une personne est atteinte d’une infection virale des voies respiratoires (toux, rhume), elle est le plus contagieuse au moment où ses symptômes sont les plus forts. En ce qui concerne le nouveau coronavirus, la situation pourrait être différente. Il est possible que l’on soit contagieux avant, c’est-à-dire peu avant l’apparition des symptômes."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

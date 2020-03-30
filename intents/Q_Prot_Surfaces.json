@@ -1,0 +1,43 @@
+{
+  "id": "4aa03516-3f9a-4017-aec3-d5eca63d701c",
+  "name": "Q_Prot_Surfaces",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "To be on the safe side, clean household appliances and surfaces that could be contaminated with the virus – and that you use or touch often – regularly and thoroughly. You can use a regular cleaning product.\n\nWash crockery, glasses, cups and kitchen utensils in the dishwasher or by hand with washing-up liquid after use.\n\nWash your clothing, bed linen and bath towels regularly in the washing machine."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Afin d\u0027être certain, nettoyez régulièrement et soigneusement les appareils ménagers et les surfaces susceptibles d\u0027être contaminés par le virus et que l\u0027on touche souvent. Les produits de nettoyage ménager courants s\u0027y prêtent très bien.  Nettoyez soigneusement la vaisselle, les verres, les tasses et les ustensiles de cuisine dans le lave-vaisselle ou avec de l\u0027eau et du produit vaisselle.  Lavez régulièrement vos vêtements, vos draps et vos linges de toilette en machine."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Um sicher zu gehen: Reinigen Sie Haushaltsgeräte und Oberflächen, die durch Viren verunreinigt sein könnten und die häufig berührt werden, regelmässig und gründlich. Normale Reinigungsmittel sind dafür geeignet.\n\nGeschirr, Gläser, Tassen oder Küchenutensilien waschen Sie nach Gebrauch in der Abwaschmaschine oder von Hand sorgfältig mit Wasser und Geschirrspülmittel.\n\nKleider, Bettwäsche und Badhandtücher waschen Sie regelmässig in der Maschine."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

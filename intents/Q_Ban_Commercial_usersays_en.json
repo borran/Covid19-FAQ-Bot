@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d6728bea-3bad-404d-a9c6-f5b31c746741",
+    "data": [
+      {
+        "text": "Can commercial enterprises operate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2797e3f7-e1a8-43ff-8bf0-e79137cbdcd8",
+    "data": [
+      {
+        "text": "Are commercial enterprises covered by the ban?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

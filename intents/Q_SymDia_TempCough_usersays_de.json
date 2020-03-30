@@ -1,0 +1,206 @@
+[
+  {
+    "id": "402a0efd-fe07-44fa-9968-096019d54d01",
+    "data": [
+      {
+        "text": "Ich habe Atemprobleme, was soll ich tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f7cceee-4858-4164-b688-81ed38e65f0d",
+    "data": [
+      {
+        "text": "Ich habe Atemprobleme.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9768c26e-7190-4d3b-a1af-63cc2e14acee",
+    "data": [
+      {
+        "text": "Ich kann nur schwer atmen.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50024465-0333-40a8-80c5-68673e68e534",
+    "data": [
+      {
+        "text": "Was soll ich bei ",
+        "userDefined": false
+      },
+      {
+        "text": "Fieber",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee110766-8daf-488c-a5b4-5f83f4b2fc2d",
+    "data": [
+      {
+        "text": "Was soll ich bei ",
+        "userDefined": false
+      },
+      {
+        "text": "Husten",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d931414-dc5c-4a84-b832-3f3e93578f61",
+    "data": [
+      {
+        "text": "Ich habe Symptome.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7242880-bda4-4d7e-890c-b941bfbd38f2",
+    "data": [
+      {
+        "text": "Ich habe Symptome, was muss ich tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24b3e1f6-82df-4d9c-b814-be8714beccb0",
+    "data": [
+      {
+        "text": "Ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "Husten",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c743907-247f-4c7f-bf2f-8d32c3a4e258",
+    "data": [
+      {
+        "text": "Ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "Fieber",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4447db84-d466-42bd-b9ec-8efa5c53c35f",
+    "data": [
+      {
+        "text": "Ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "Fieber",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": ", was soll ich tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1dab90a-9b82-4dbb-9dd4-07de395c905d",
+    "data": [
+      {
+        "text": "Ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "Husten",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": ", was muss ich tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f1b3cad-aaf9-4ceb-b581-a5e0450e1000",
+    "data": [
+      {
+        "text": " Ich habe Husten, Fieber oder andere Zeichen einer akuten Atemwegserkrankung, was muss ich tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

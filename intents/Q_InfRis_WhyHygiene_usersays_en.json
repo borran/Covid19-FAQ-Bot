@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1586bb8d-da05-45ab-a3cf-3863b31e0e3e",
+    "data": [
+      {
+        "text": "Why hygiene is important?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "721d99b9-3a4d-48d7-8c9d-995a5916ddd4",
+    "data": [
+      {
+        "text": "Why to follow rules?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c79b8b7-c1ad-4083-9255-afac8577eb43",
+    "data": [
+      {
+        "text": "Why is it important to follow rules on hygiene and how to behave around others?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

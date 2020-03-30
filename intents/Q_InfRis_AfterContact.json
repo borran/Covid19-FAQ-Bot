@@ -1,0 +1,80 @@
+{
+  "id": "8a9b77c0-7684-4a6a-9f37-81664237d116",
+  "name": "Q_InfRis_AfterContact",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "24a9ea06-5c6d-4a86-b9d2-3016a0c722fa",
+          "required": false,
+          "dataType": "@sys.person",
+          "name": "person",
+          "value": "$person",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "fbe03056-c820-4ffb-bb35-664b333e7dbb",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "66b42ad2-745b-4fad-aa41-e5947b857c84",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "If you have been in close contact with someone who has been confirmed as having the coronavirus (distance of less than 2 metres for more than 15 minutes), but who is not living in the same household as you, and with whom you have not had intimate relations: Monitor your condition.\n\nIf you don’t have any symptoms (cough [dry cough], sore throat, shortness of breath and/or high temperature, feverishness or muscle ache): Monitor your condition to see if you develop any symptoms.\n\nIf you have mild symptoms (cough [dry cough], sore throat, shortness of breath and/or high temperature, feverishness or muscle ache): Isolate yourself at home until you are free of symptoms. Wait a further 48 hours before going out in public (see info on ‘Self-isolation and self-quarantine’).\n\nIf your symptoms get worse (fever, shortness of breath or difficulty breathing) or you have underlying medical condition and are therefore at especially high risk: Call a doctor or healthcare institution. They will then decide if you need a medical consultation, or if it is enough just to stay at home in isolation (see info on ‘Self-isolation and self-quarantine’).\n\nIf you live in the same household as someone who is infected, or with whom you have had intimate relations: Stay at home in quarantine for ten days. Monitor your condition to see if you develop any symptoms (high temperature and cough). Follow the advice aforementioned."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Si vous avez été en contact étroit (moins de 2 mètres de distance pendant plus de 15 minutes) avec une personne dont l’infection au nouveau coronavirus a été confirmée, mais que vous ne vivez pas sous le même toit et que vous n’avez pas eu de relations intimes : surveillez votre état de santé.\n\nSi vous n’avez pas de symptômes (de la toux [toux sèche irritante], des maux de gorge, un essoufflement et/ou de la fièvre, une sensation de fièvre, des douleurs musculaires) : observez si des symptômes se développent.\n\nSi vous avez des symptômes légers (de la toux [toux sèche irritante], des maux de gorge, un essoufflement) et/ou de la fièvre, une sensation de fièvre, des douleurs musculaires) : restez en isolement chez vous jusqu’à ce que les symptômes disparaissent et attendez ensuite 48 heures avant de vous rendre à nouveau dans l’espace public.\n\nSi vos symptômes s’aggravent (forte fièvre, difficultés respiratoires ou détresse respiratoire) ou si vous avez une maladie préexistante et êtes donc particulièrement à risque : téléphonez à un médecin ou à une institution de santé. Ils décideront alors si des examens médicaux sont nécessaires ou s’il est suffisant que vous restiez en isolement chez vous.\nSi vous habitez sous le même toit qu’une personne infectée ou que vous avez eu des relations intimes avec elle : restez dix jours en quarantaine chez vous. Observez si des symptômes (fièvre et toux) se développent."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Wenn Sie mit einer bestätigten, infizierten Person engen Kontakt hatten (Abstand von weniger als 2 Metern während mehr als 15 Minuten), aber nicht im selben Haushalt leben und keine intime Beziehung hatten: Überwachen Sie Ihren Gesundheitszustand.\n\nSie haben keine Krankheitssymptome (Husten [trockener Reizhusten], Halsschmerzen, Kurzatmigkeit und/oder Fieber, Fiebergefühl, Muskelschmerzen): beobachten Sie, ob sich Krankheitssymptome entwickeln.\n\nSie haben leichte Krankheitssymptome (Husten [trockener Reizhusten], Halsschmerzen, Kurzatmigkeit und/oder Fieber, Fiebergefühl, Muskelschmerzen): Bleiben Sie isoliert zu Hause, bis Sie keine Krankheitsssymptome mehr haben. Warten Sie danach weitere 48 Stunden, bis Sie wieder in die Öffentlichkeit gehen (siehe Seite «Selbst-Isolation und Selbst-Quarantäne» sowie das Merkblatt «Selbst-Isolation» weiter unten im Register «Dokumente»).\n\nIhre Krankheitssymptome werden stärker (hohes Fieber, Atembeschwerden oder Atemnot) oder sie haben eine Vorerkrankung und sind deshalb besonders gefährdet: Rufen Sie eine Ärztin/einen Arzt oder eine Gesundheitseinrichtung an. Diese entscheiden, ob eine medizinische Abklärung durchgeführt werden muss, oder ob es ausreicht, wenn Sie weiterhin zu Hause in Isolation bleiben (siehe Seite «Selbst-Isolation und Selbst-Quarantäne» sowie das Merkblatt «Selbst-Isolation» weiter unten im Register «Dokumente»).\n\nWenn Sie mit einer infizierten Person im selben Haushalt wohnen oder intim waren: Bleiben Sie während zehn Tagen zu Hause in Quarantäne (siehe Seite «Selbst-Isolation und Selbst-Quarantäne» sowie die Merkblätter «Wenn infiziert und zu Hause isoliert» und «Selbst-Quarantäne» weiter unten im Register «Dokumente»). Beobachten Sie, ob sich Krankheitssymptome (Fieber und Husten) entwickeln. Gehen Sie vor wie oben beschrieben."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

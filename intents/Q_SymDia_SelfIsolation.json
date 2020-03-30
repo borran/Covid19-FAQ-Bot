@@ -1,0 +1,43 @@
+{
+  "id": "f9a600d3-47ae-4106-8dbe-4b48f12b3d5f",
+  "name": "Q_SymDia_SelfIsolation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Hat eine Person leichte Krankheitssymptome (Husten (trockener Reizhusten), Halsschmerzen, Kurzatmigkeit und/oder Fieber, Fiebergefühl, Muskelschmerzen), dann wird sie nicht auf das neue Coronavirus getestet (ausser man ist gefährdet, weil man eine Vorerkrankung hat). Die Person bleibt dann freiwillig in der sogenannten Selbst-Isolation zu Hause und minimiert den Kontakt zu anderen Menschen, auch zu den Personen im eigenen Haushalt. Damit kann sie eine Ansteckung anderer Menschen vermeiden.\n\nDie Selbst-Isolation kann man selbst beenden, wenn man 48 Stunden lang keine Krankheitssymptome mehr hat (siehe Seite «Selbst-Isolation und Selbst-Quarantäne»).\n\nPersonen mit Krankheitssymptomen, für die eine Ärztin/ein Arzt entschieden hat, dass ein Test notwendig ist: Fällt der Test positiv aus, dann bleibt die Person bis 48 Stunden nach der Genesung und mindestens zehn Tage seit dem Auftreten der Krankheitssymptome isoliert (siehe das Dokument «Selbst-Isolation» weiter unten im Register «Dokumente»). Weil unklar ist, wann die Ansteckungsgefahr endet, sollte sie sich auch danach an die Hygiene- und Verhaltensregeln halten."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "If someone experiences minor symptoms of illness (a cough (irritating dry cough), sore throat, shortness of breath and/or high temperature, feverishness, muscle ache), they will not be tested for the novel coronavirus (unless they are at risk because they have an underlying, pre-existing condition). This person then remains voluntarily in so-called self-isolation at home, minimising their contact with other people, including those living in the same household. This way they can avoid infecting others.\n\nYou can end the period of self-isolation yourself once you have been free of symptoms for 48 hours (see the page on ‘Self-isolation and self-quarantine’).\n\nPeople with symptoms of illness for whom a doctor has decided a test is necessary: If the test is positive, the person remains isolated until 48 hours after they have recovered, and at least ten days from the moment their symptoms of illness appeared (see the fact sheet on ‘self-isolation’ further down in the Documents tab). Because it is not clear when the risk of passing on the infection ends, even after this they should continue to follow the rules of hygiene and how to behave."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Si une personne présente de légers symptômes de maladie (de la toux (toux sèche irritante), des maux de gorge, un essoufflement et/ou de la fièvre, une sensation de fièvre, des douleurs musculaires), elle ne sera pas testée pour le nouveau coronavirus (sauf si elle est à risque parce qu’elle est déjà atteinte d’une maladie). Dans ce cas, elle reste volontairement chez elle en auto-isolement, et réduit à un minimum les contacts avec les autres personnes, y compris celles de son propre foyer. De cette façon, elle peut éviter d’infecter d’autres personnes.\n\nVous pouvez mettre fin vous-même à l’auto-isolement si vous n’avez plus de symptômes pendant 48 heures.\nPersonnes présentant des symptômes de maladie pour lesquelles un médecin a décidé de procéder à un test : Si le test est positif, la personne reste isolée au moins dix jours après l’apparition des symptômes et jusqu’à 48 heures après sa guérison. Comme la science n’a pas encore déterminé exactement quand le risque d’infection disparaît, elle doit également respecter les règles d’hygiène par la suite."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

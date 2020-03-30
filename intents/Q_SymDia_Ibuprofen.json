@@ -1,0 +1,43 @@
+{
+  "id": "6ba1b025-8018-416c-a54e-7bb35eaeb134",
+  "name": "Q_SymDia_Ibuprofen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Es gibt derzeit keine wissenschaftlichen Daten, die auf einen solchen Zusammenhang hinweisen. Das Medikament Ibuprofen beeinflusst den Krankheitsverlauf von Covid-19 nicht nachweislich.\n\nVielmehr ist es wichtig, dass Vor- oder Begleiterkrankungen von an Covid-19 erkrankten Patientinnen und Patienten abgeklärt werden. Die Behandlung wird dann – wie üblich – sorgfältig auf die individuelle Situation abgestimmt.\n\nWir empfehlen Ihnen, stets eine Liste mit den aktuell eingenommenen Medikamenten verfügbar zu halten. Auf der Liste sollten Sie sowohl die von einer Ärztin oder einem Arzt verordneten wie auch die im Rahmen der Selbstmedikation eingesetzten Arzneimittel festhalten."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There is no scientific data to indicate that such a connection exists at the present time. There is no demonstrable proof that Ibuprofen has an effect on the progression of COVID-19.\n\nInstead it is important to know whether patients ill with COVID-19 have any pre-existing conditions or are currently suffering from any other diseases. As is always the case, the treatment will then be carefully adapted to the patient’s situation.\n\nWe recommend that you always keep a list of any medication that you have taken. You should list any medication prescribed by a doctor, as well as any medication you have taken yourself."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Actuellement, aucune donnée scientifique n’indique un tel lien. Il n’est pas prouvé que ce médicament ait une influence sur l’évolution de la maladie COVID-19.\n\nIl est bien plus important que les affections préexistantes et concomitantes des personnes atteintes du COVID-19 soient clarifiées. Le traitement sera, comme toujours, soigneusement adapté à la situation individuelle du patient.\n\nNous vous recommandons de toujours avoir à disposition une liste des médicaments que vous prenez actuellement. Cette dernière doit contenir non seulement les médicaments prescrits par un médecin, mais également ceux pris en automédication."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

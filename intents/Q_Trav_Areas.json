@@ -1,0 +1,43 @@
+{
+  "id": "5942257f-aa3c-43d6-9089-9f5943186abb",
+  "name": "Q_Trav_Areas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There is now a risk of becoming infected with new coronavirus in almost all parts of the world. As of 9 March we will therefore no longer be referring to ‘affected areas’."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Presque toutes les régions du monde présentent un risque d’infection par le nouveau coronavirus. C\u0027est pourquoi, depuis le 9 mars 2020, nous n\u0027avons plus défini de « zones touchées »."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "In fast allen Regionen der Welt und auch in der Schweiz besteht das Risiko einer Ansteckung mit dem neuen Coronavirus. Deshalb definieren wir seit 9. März 2020 keine «betroffenen Gebiete» mehr."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

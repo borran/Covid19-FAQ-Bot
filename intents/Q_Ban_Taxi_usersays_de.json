@@ -1,0 +1,62 @@
+[
+  {
+    "id": "53b67ec5-62a1-4b13-86bb-588d7cea7f23",
+    "data": [
+      {
+        "text": "Darf ich noch private Fahrdienste anbieten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cc7b8b9-5e7a-473c-9793-4c93031607d4",
+    "data": [
+      {
+        "text": "Dürfen ",
+        "userDefined": false
+      },
+      {
+        "text": "Taxis",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " weiterhin fahren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1603e887-0d46-44ad-891f-912d8ab9aa2a",
+    "data": [
+      {
+        "text": "Taxi",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2f5400a-a4e9-44af-bc5a-ea88b65eef0f",
+    "data": [
+      {
+        "text": " Fallen Taxiunternehmungen und andere private Fahrdienste auch unter das Verbot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

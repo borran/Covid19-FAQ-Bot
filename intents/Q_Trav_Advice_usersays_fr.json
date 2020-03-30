@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3a8fc995-9407-44f2-9a3e-24e64447f9a6",
+    "data": [
+      {
+        "text": "Est-ce qu\u0027il y a un danger pour les voyageur?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "487cf294-51a7-4f24-a143-a0362dbcf86a",
+    "data": [
+      {
+        "text": "Est-ce que on peut voyager?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e722e6db-6711-45e3-bf94-3224e9314aa5",
+    "data": [
+      {
+        "text": "De quoi faut-il tenir compte en cas de voyage ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

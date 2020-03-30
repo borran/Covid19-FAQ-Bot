@@ -1,0 +1,38 @@
+[
+  {
+    "id": "02ba2d45-d1c4-441c-b340-84464e8387d8",
+    "data": [
+      {
+        "text": "Kann ich weiterhin Fahrstunden nehmen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "669e3e73-c0bf-41a7-a792-9deb2600fa90",
+    "data": [
+      {
+        "text": "Fahrstunden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da61b645-bbe7-473f-bcce-5f26c761eb60",
+    "data": [
+      {
+        "text": " Kann ich noch in die Fahrschule?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

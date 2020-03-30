@@ -1,0 +1,68 @@
+{
+  "id": "155d076d-a068-4f7b-bda9-2ea2b1024d92",
+  "name": "Q_Corona_WhatIs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "68401601-e274-4b10-a51f-a79fd0efc701",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "4cce860d-9f1a-4772-a2c7-fc75be0b6e2e",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Le nouveau coronavirus a été découvert en Chine fin 2019 sur la base d\u0027une incidence extraordinaire de pneumonie dans la ville centrale de Wuhan en Chine. Le virus, qui a été nommé SARS-CoV-2, appartient à la même famille que les agents pathogènes responsables du syndrome respiratoire du Moyen-Orient »MERS et du syndrome respiratoire aigu sévère SRAS.\n\nLe 11 février 2020, l\u0027OMS a donné à la maladie causée par le nouveau coronavirus un nom officiel: COVID-19, abréviation de coronavirus disease 2019.\n\nLes informations actuellement disponibles suggèrent que ce sont les animaux qui ont transmis le virus aux humains et qu\u0027il se propage désormais de personne à personne. Il provient probablement d\u0027un marché aux poissons et aux animaux de la ville de Wuhan qui a depuis été fermé par les autorités chinoises."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Informationen dazu finden Sie auf der Seite «Krankheit COVID-19, Symptome und Behandlung, Ursprung neues Coronavirus»"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The new coronavirus was discovered in China at the end of 2019 on the basis of an extraordinary incidence of pneumonia in the central Chinese city of Wuhan. The virus, which was named SARS-CoV-2, belongs to the same family as the pathogens responsible for Middle East respiratory syndrome» MERS and severe acute respiratory syndrome SARS.\n\nOn 11 February 2020 the WHO gave the disease caused by the new coronavirus an official name: COVID-19, short for coronavirus disease 2019.\n\nThe information currently available suggests that it was animals that transmitted the virus to humans and that it is now spreading from person to person. It probably originated in a fish and animal market in the city of Wuhan which has since been closed by the Chinese authorities."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

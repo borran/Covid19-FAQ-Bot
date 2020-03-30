@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ff739fd5-08d7-4c99-a489-012e7c04f15c",
+    "data": [
+      {
+        "text": "Est-ce que les enfants peuvent jouer ensembles?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6776a952-5482-4282-b0d1-2093ebd22e48",
+    "data": [
+      {
+        "text": "Les enfants peuvent-ils retrouver leurs amis en privé pour jouer ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

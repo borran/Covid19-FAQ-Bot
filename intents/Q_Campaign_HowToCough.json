@@ -1,0 +1,53 @@
+{
+  "id": "60cb8323-ab56-45e6-8738-0e8a4f803c18",
+  "name": "Q_Campaign_HowToCough",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": [
+            "Tousser et éternuer dans un mouchoir ou dans le creux du coude.",
+            "les virus se propagent rapidement si on ne respecte pas les règles de comportement à ce propos."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": [
+            "Couvrez-vous le nez et la bouche quand vous toussez ou éternuez, de préférence avec un mouchoir en papier.",
+            "Si vous n’avez pas de mouchoir sur vous, toussez et éternuez dans le creux du coude et non dans vos mains. Si vous utilisez vos mains malgré tout, lavez-les si possible tout de suite soigneusement avec de l’eau et du savon.",
+            "Mouchez-vous seulement avec des mouchoirs en papier à usage unique (pas de mouchoirs en tissu).",
+            "Crachez dans un mouchoir en papier à usage unique.",
+            "Lavez-vous les mains après avoir toussé, éternué ou craché dans un mouchoir.",
+            "Utilisez un mouchoir en papier à usage unique et jetez-le ensuite dans une poubelle."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Cover your nose and mouth when coughing and sneezing, ideally with a paper tissue.\n    If you don’t have a tissue, cough or sneeze into the crook of your arm rather than into your hands. If you do use your hands, wash them thoroughly with water and soap immediately afterwards if possible.\n    Only use paper tissues (and not cloth handkerchiefs) to blow your nose.\n    Spit into a tissue.\n    Wash your hands afterwards every time you cough, sneeze or spit into a tissue.\n    Use a paper tissue, and use it only once. Then dispose of it."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

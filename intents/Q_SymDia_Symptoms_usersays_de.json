@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23544309-6b4a-4e91-91db-899ea175fce5",
+    "data": [
+      {
+        "text": "Welche Symptome treten auf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adc04285-1322-4c15-8140-6b5fbc573b95",
+    "data": [
+      {
+        "text": "Was sind Symptome bei Coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa1d2de5-3956-4afc-908a-e5e9c5f077fa",
+    "data": [
+      {
+        "text": " Welche Symptome treten bei einer Erkrankung mit dem neuen Coronavirus auf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

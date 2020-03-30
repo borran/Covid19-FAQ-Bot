@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9747a78b-97d9-4d06-903c-638fbc16daf8",
+    "data": [
+      {
+        "text": "I have high temperature but no coughing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec74a99e-545e-4727-828f-722e4788d413",
+    "data": [
+      {
+        "text": "I am coughing but no fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "affcdedc-4090-4e9c-adc8-9b45c570ec14",
+    "data": [
+      {
+        "text": " I have a cough but no high temperature, or the other way around. What must I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

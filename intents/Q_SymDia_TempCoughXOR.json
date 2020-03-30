@@ -1,0 +1,37 @@
+{
+  "id": "5ac9d6a8-d2e2-4330-9b26-cba67c43cc7e",
+  "name": "Q_SymDia_TempCoughXOR",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Sometimes the only symptom of infection with the coronavirus is a cough. It is a dry cough, sometimes accompanied by a sore throat and a feeling of being ill (tiredness and muscle ache). If you are experiencing symptoms of illness of this sort, stay at home for a further 48 hours after you have recovered.\n\nIf you have only fever (a temperature higher than 38 °C), this may be the beginning of the disease caused by the novel coronavirus. Other symptoms may follow. Here too, stay at home for a further 48 hours after you have recovered.\nMost people with novel coronavirus infection have both a fever and a cough.\n\nIf your symptoms get worse: See the question ‘What do you have to do if you have been in contact with someone infected with the novel coronavirus?’"
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Outre la toux et/ou la fièvre, des maux de gorge, des difficultés respiratoires, une sensation de fièvre ou des courbatures peuvent aussi être le signe d’une infection au coronavirus.\n\nToutefois, les signes de la maladie ne sont pas nécessairement forts. Parfois, seul un des symptômes apparaît.\n\nSi vous présentez l’un de ces symptômes, vous devez vous mettre en auto-isolement chez vous afin de n’infecter personne. Évitez autant que possible le contact avec d’autres personnes. S’ils sont faibles, vous pouvez vous soigner vous-même. Veuillez suivre les recommandations de l\u0027 « Auto-isolement et auto-quarantaine ».\n\nSi vous faites partie des personnes vulnérables ou que vos symptômes s’aggravent : appelez votre médecin. Il décidera alors si des examens médicaux sont nécessaires ou si vous pouvez continuer à rester à la maison et à vous soigner vous-même."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

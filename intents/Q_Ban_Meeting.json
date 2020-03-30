@@ -1,0 +1,43 @@
+{
+  "id": "2aa30e7e-267a-4498-a637-d61164979423",
+  "name": "Q_Ban_Meeting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "No, organizing or participating to general meetings are not possible. General meetings are not permitted."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Non, organiser une assemblée générale ou y participer n’est autorisé. Les assemblées générales sont interdites."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Nein, beides ist nicht möglich. Generalversammlungen sind verboten."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

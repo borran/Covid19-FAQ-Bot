@@ -1,0 +1,43 @@
+{
+  "id": "3436dab5-30dd-4621-a16c-207d9d156655",
+  "name": "Q_Preg_BabyAtRisk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There is currently no evidence that babies have become infected with the new coronavirus during pregnancy when the mother had contracted COVID-19 before the birth. So far, no viruses have been detected in a mother’s amniotic fluid or breast milk.\n\nHowever, the new-born baby can become infected after birth via droplets (coughing, sneezing, kissing). However, there is currently no evidence that new-born babies are at increased risk of severe illness.\n\nYou can still breastfeed your baby, but it is important that you follow the special hygiene rules. These can protect your new-born child from infection."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "À l’heure actuelle, rien n’indique que si une mère a contracté le COVID-19 avant la naissance de son enfant, ce dernier risque une infection durant la grossesse. En outre, aucun coronavirus n’a été détecté dans le liquide amniotique ou le lait maternel jusqu’ici.\n\nToutefois, il est possible que vous contaminiez votre nouveau-né par les gouttelettes (toux, éternuement, baisers). Rien n’indique actuellement que les nouveau-nés présentent un risque accru de développer une forme grave de la maladie.\n\nVous pouvez allaiter votre enfant. L’important est que vous observiez les règles d’hygiène et de conduite recommandées, qui vous auront été expliquées par la sage-femme ou le médecin après la naissance. Elles vous permettront de protéger votre nouveau-né d’une infection."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Es gibt derzeit keinen Hinweis darauf, dass sich Babys während der Schwangerschaft mit dem neuen Coronavirus infizieren, wenn ihre Mutter vor der Geburt an COVID-19 erkrankt ist. Zudem wurden bisher in Fruchtwasser oder Muttermilch keine Coronaviren nachgewiesen.\n\nAllerdings könnten Sie Ihr Neugeborenes über Tröpfchen (Husten, Niesen, Küssen) infizieren. Neugeborene können zwar erkranken, es besteht jedoch aktuell kein Hinweis darauf, dass sie ein erhöhtes Risiko für einen schweren Krankheitsverlauf haben.\n\nSie können Ihr Kind stillen. Wichtig ist dabei, dass Sie dabei die empfohlenen Hygiene- und Verhaltensregeln beachten, welche Ihnen nach der Geburt von der Hebamme oder dem Arzt/Ärztin erklärt werden. Diese schützen ihr Neugeborenes vor einer Ansteckung."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

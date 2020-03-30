@@ -1,0 +1,43 @@
+{
+  "id": "15dd2b9b-f312-4c4b-9f9a-5c561a5b3a42",
+  "name": "Q_Preg_Working",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There is no evidence at present that pregnant women are at higher risk of contracting the new coronavirus. Pregnant women can still go to work as long as their employer respects the applicable rules on hygiene and social distancing. If these measures are not observed in the workplace, pregnant women are afforded special protection under the Maternity Health and Safety Ordinance."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Bisher gibt es keine Hinweise dafür, dass für Schwangere eine erhöhte Gefahr besteht, sich mit dem neuen Coronavirus anzustecken. Schwangere können weiterhin zur Arbeit gehen, wenn der Arbeitgeber die geltenden Hygiene- und Verhaltensregeln einhält. Werden diese Massnahmen am Arbeitsplatz nicht eingehalten, so gilt für Schwangere der besondere Schutz durch die Mutterschutzverordnung."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "À l\u0027heure actuelle, rien n\u0027indique que les femmes enceintes présentent un risque accru d\u0027être contaminées par le nouveau coronavirus. Elles peuvent continuer de se rendre au travail si leur employeur respecte les règles d\u0027hygiène et de conduite préconisées. Si ce n\u0027est pas le cas, les dispositions spécifiques de l\u0027ordonnance sur la protection de la maternité s\u0027appliquent pour les femmes enceintes."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

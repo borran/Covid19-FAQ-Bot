@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0c7a7ab3-73d1-4e96-bf28-1e5b1172315e",
+    "data": [
+      {
+        "text": "Company meetings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca94cc64-3373-4582-af02-daf4454b5d65",
+    "data": [
+      {
+        "text": "What are the rules about internal meeting?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec27ffb2-1f95-460b-8704-44ad903d2fd9",
+    "data": [
+      {
+        "text": "Internal meetings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec39f7e4-04db-4363-8ecd-404d66a76d8e",
+    "data": [
+      {
+        "text": " Are internal meetings allowed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b989b793-2fb9-4c4c-baa8-075ea401786c",
+    "data": [
+      {
+        "text": "Are internal meetings allowed? If so, under what conditions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

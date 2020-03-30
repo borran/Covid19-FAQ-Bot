@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2c4e7f3e-7df5-4b73-b3dc-8a37bfa05f17",
+    "data": [
+      {
+        "text": "Est-ce que les commerçant peuvent continuer à  travailler?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8c1d8d1-e431-410b-bd39-1a3e0bcdc5ce",
+    "data": [
+      {
+        "text": "L\u0027artisanat est-il concerné par l\u0027interdiction ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

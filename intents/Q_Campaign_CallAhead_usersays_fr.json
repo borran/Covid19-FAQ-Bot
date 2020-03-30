@@ -1,0 +1,43 @@
+[
+  {
+    "id": "719031ec-c555-49a5-af91-e8bd611e565f",
+    "data": [
+      {
+        "text": "Je dois téléphoner avant d\u0027aller?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a2c97c9-58fc-4bfb-9d2e-03b4e2be49d1",
+    "data": [
+      {
+        "text": "Je peux aller chez ",
+        "userDefined": false
+      },
+      {
+        "text": "le médecin?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fec8888-a889-4783-864c-f1f63b39da59",
+    "data": [
+      {
+        "text": "Est-ce que je dois m\u0027annoncer par téléphone avant d\u0027aller chez le médecin ou aux urgences?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "id": "bfe42d7c-3ec5-4566-ac31-8a21a68d7537",
+  "name": "Q_Prot_Mask",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "589ab934-5bd6-4a12-966b-ebbc53fc9819",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "9c07cf81-fffd-457c-9690-6b32ca59fd3f",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "386f6013-08c5-4206-acb6-988d58d997a5",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name1",
+          "value": "$last-name1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Nein, gesunde Personen sollen in der Öffentlichkeit keine Hygienemasken tragen (chirurgische Masken, OP-Masken). Diese schützen eine gesunde Person nicht effektiv vor einer Ansteckung mit Viren der Atemwege (Eigenschutz). Das Tragen einer Maske kann deshalb ein falsches Sicherheitsgefühl erzeugen.\n\nAusnahmen von dieser Empfehlung:\n\nWenn Sie an einer Erkrankung der Atemwege leiden: Hygienemasken können verhindern, dass eine kranke Person andere ansteckt. Tragen Sie sie deshalb, sobald Sie keinen Mindestabstand von zwei Metern zu anderen Personen einhalten können (zum Beispiel zu Hause, in einer Arztpraxis, Apotheke oder im öffentlichen Verkehr vor/nach einem Arztbesuch).\nWenn Sie bei Ihrer Arbeit eine Maske tragen müssen (zum Beispiel Gesundheitspersonal oder Betreuungspersonal von besonders gefährdete Personen).\nBeachten Sie: Wenn Sie jemanden mit einer Hygienemaske sehen, heisst das nicht, dass diese Person am neuen Coronavirus erkrankt ist. Es gibt verschiedene Gründe, eine Maske zu tragen. Bleiben Sie freundlich zu Menschen, die eine Hygienemaske tragen."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "No, healthy people should not wear hygiene masks (surgical masks) in public. If you are in good health, they do not protect you effectively from infection with respiratory viruses (i.e. they do not provide self-protection). Wearing a mask can therefore give you a false sense of security.\n\nExcluded from this recommendation:\n\n    If you have a respiratory condition: A hygiene mask can prevent a sick person from infecting others. This means you should wear one if you cannot keep at least two metres away from other people (for example at home, at a doctor’s practice or pharmacy or in public transport to and from a visit to the doctor).\n    If you have to wear a mask at work, e.g. healthcare personnel or care workers looking after people in poor health.\n\nBe aware: If you see someone with a hygiene mask it does not mean that they have the new coronavirus. There are various reasons for wearing a mask. Remain friendly towards people wearing a hygiene mask."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Non, les personnes en bonne santé ne doivent pas porter de masques d’hygiène (ou masques chirurgicaux/masques OP) en public. Ils ne protègent pas efficacement une personne saine contre l’infection par des virus affectant les voies respiratoires (autoprotection). Porter un masque peut dès lors donner un faux sentiment de sécurité.\n\nException à cette recommandation :\n\nSi vous avez déjà une maladie respiratoire : Les masques d’hygiène peuvent éviter qu’une personne malade n’en infecte d’autres. Portez-en un lorsque vous ne pouvez pas maintenir une distance minimale de deux mètres avec d’autres personnes (par exemple à la maison, dans un cabinet médical, une pharmacie ou dans les transports publics avant/après une visite chez le médecin).\nSi vous devez porter un masque à votre travail (par exemple, le personnel de santé ou le personnel s’occupant de  personnes particulièrement à risque). À noter : lorsque vous voyez quelqu’un qui porte un masque d’hygiène, cela ne veut pas dire que cette personne est infectée par le nouveau coronavirus. Il existe différentes raisons de porter un masque. Restez aimable avec les personnes qui portent un masque d’hygiène."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

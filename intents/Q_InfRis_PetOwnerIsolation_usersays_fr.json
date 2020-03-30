@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3dbd561b-a721-48b8-8b9d-540216d74ab1",
+    "data": [
+      {
+        "text": "Est-ce que je peux garder mon animal si j\u0027ai le nouveau coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a1c4597-9715-4698-b5af-ad1c092e7e5b",
+    "data": [
+      {
+        "text": "Quelle conduite les détenteurs d\u0027animaux qui sont isolés à la maison en raison du coronavirus doivent-ils adopter ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

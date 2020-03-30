@@ -1,0 +1,26 @@
+[
+  {
+    "id": "570938f2-4058-4c3c-8f54-3e95a7eeb8c3",
+    "data": [
+      {
+        "text": "Est-ce que les antibiotiques sont utiles contre le coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d826cfa-224d-4e90-91c0-cfd95fb78e01",
+    "data": [
+      {
+        "text": "La maladie COVID-19 (causée par le nouveau coronavirus) peut elle être traitée avec des antibiotiques ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

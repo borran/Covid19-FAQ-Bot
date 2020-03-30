@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b607e382-28d4-4625-9816-3e9cfc160635",
+    "data": [
+      {
+        "text": "risque d\u0027infection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0250242-35c3-45f4-b35d-814faf56a4b2",
+    "data": [
+      {
+        "text": "Est-ce que je peux être infecté par le nouveaux coronavirus en Suisse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ec4dfbf-3e94-4a49-b97f-0c39353c67b4",
+    "data": [
+      {
+        "text": "Peut-on contracter le nouveau coronavirus en Suisse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

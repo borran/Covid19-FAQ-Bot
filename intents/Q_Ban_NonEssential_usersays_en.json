@@ -1,0 +1,38 @@
+[
+  {
+    "id": "434498d4-1a21-4346-8c11-074f554b6801",
+    "data": [
+      {
+        "text": "Can large stores sell non-essential items?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ed2eb4f-f7a1-4a02-801a-d9df19254fb4",
+    "data": [
+      {
+        "text": "Can small shops stay open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8ea3e6d-70dc-476d-8eef-cb56e5037ab0",
+    "data": [
+      {
+        "text": "What is the situation regarding stores that also stock products other than everyday items? Do sections containing non-essential items have to be blocked off?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

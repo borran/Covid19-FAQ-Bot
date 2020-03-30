@@ -1,0 +1,43 @@
+{
+  "id": "9764b17a-9fde-4d02-9085-585d014f1e61",
+  "name": "Q_Ban_Meet",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Generell gilt: Bleiben Sie zu Hause. Insbesondere Personen, die krank oder über 65 Jahre alt sind, sollten ihre Wohnung nur in Ausnahmefällen verlassen. Ansammlungen von mehr als fünf Personen sind verboten. Die Polizei kann Sie mit einer Busse bestrafen, wenn Sie sich nicht an diese Vorgabe halten.\n\nDas bedeutet zum Beispiel:\n\nKein Feierabenddrink mit Arbeitskolleginnen und -kollegen\nKeine private Party\nKein Fussballtraining\nKeine Einladungen zu Kindergeburtstagen\nTreffen Sie sich mit vier oder weniger Personen achten Sie unbedingt auf den Abstand von mindestens 2 Metern. Und halten Sie sich bitte an die Hygiene- und Verhaltensregeln."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "As a general rule, stay at home. In particular, people who are ill or over the age of 65 should only leave the home in exceptional circumstances. Gatherings of more than five people are prohibited. The police can issue you with a fine if you do not follow these rules. This means, for example: No drinks after work with our colleagues, No private parties, No football training, No invitations to children’s birthday parties.\n\nIf you do meet up with other people, making sure there are no more than five of you, keep at least 2 meters apart and follow the rules on hygiene."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Règle générale : restez à la maison. En particulier les personnes déjà malades ou âgées de plus de 65 ans ne devraient quitter leur logement qu’en cas d’exception. Les rassemblements de plus de cinq personnes sont interdits. La police peut vous infliger une amende si vous ne respectez pas cette règle.\n\nCeci implique, par exemple :\n\nPas de verre avec les collègues après le travail\nPas de fête privée\nPas d’entraînement de football\nPas d’invitations à l’anniversaire d’un enfant\nSi vous rencontrez quatre personnes ou moins, veillez impérativement à garder une distance d’au moins deux mètres. Respectez les règles d’hygiène et de conduite."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

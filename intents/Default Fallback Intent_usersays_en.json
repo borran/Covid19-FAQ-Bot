@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ba00462f-b295-4c5c-8213-6b334f00d183",
+    "data": [
+      {
+        "text": "Who are in the risk group?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8345dca0-23fb-4339-82a0-48b2ecccabda",
+    "data": [
+      {
+        "text": "Who belong to the risk group?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10eb4ffa-fd6b-4391-844d-06bae9f25e8c",
+    "data": [
+      {
+        "text": "What do you know?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a8a4140-b943-4b9c-940a-81638cdfdf9d",
+    "data": [
+      {
+        "text": "Kiss Kiss Psycho interviews",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

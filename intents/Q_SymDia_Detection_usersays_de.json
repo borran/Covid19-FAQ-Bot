@@ -1,0 +1,72 @@
+[
+  {
+    "id": "26046658-1d02-4a66-88f1-6b4e4a539a65",
+    "data": [
+      {
+        "text": "Habe ich das Coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e5345f6-68b2-4e13-8273-a2cf07a7ef0d",
+    "data": [
+      {
+        "text": "Wie finde ich heraus ob ich angesteckt bin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aba1c6e8-49e2-4060-9223-9ae664312392",
+    "data": [
+      {
+        "text": "Wie ",
+        "userDefined": false
+      },
+      {
+        "text": "weiss",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " ich ob ich angesteckt bin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6b22bbd-ae1c-4301-b668-78db32693fbc",
+    "data": [
+      {
+        "text": "Wie merke ich, dass ich angesteckt bin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40448677-6963-4273-8785-de07c893ae86",
+    "data": [
+      {
+        "text": " Wie wird eine Infektion mit dem neuen Coronavirus festgestellt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "a0ff1d4e-35da-4e4a-8cf7-8ef105022d55",
+    "data": [
+      {
+        "text": "Kann ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " über Nahrung übertragen werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3330a06-1fe4-4565-a95b-cea98eb4ff23",
+    "data": [
+      {
+        "text": "Können Nahrungsmittel das Coronavirus übertragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c829b607-ef59-40b3-9ce3-cbac15fb3bc6",
+    "data": [
+      {
+        "text": "Kann das Coronavirus übers ",
+        "userDefined": false
+      },
+      {
+        "text": "Essen",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " übertragen werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4edde91d-32ca-4a08-ad89-d953deb6351e",
+    "data": [
+      {
+        "text": "Kann das ",
+        "userDefined": false
+      },
+      {
+        "text": "Coronavirus",
+        "alias": "Age",
+        "meta": "@Age",
+        "userDefined": true
+      },
+      {
+        "text": " durch ",
+        "userDefined": false
+      },
+      {
+        "text": "Essen",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "übertragen",
+        "alias": "Age",
+        "meta": "@Age",
+        "userDefined": true
+      },
+      {
+        "text": " werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42ce54ee-8352-447c-8038-62d907ea5966",
+    "data": [
+      {
+        "text": " Kann das neue Coronavirus via Lebensmittel übertragen werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "09ff359e-7802-4b10-819d-8cbdcc500535",
+    "data": [
+      {
+        "text": "How should I cough without infecting the others?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a3c1a07-4ef9-4de9-96c0-635e77808204",
+    "data": [
+      {
+        "text": "What are the rules about coughing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f30c314-36ec-4a58-9925-1516ad53de7b",
+    "data": [
+      {
+        "text": "How to cough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3849ffd-a7a7-43a1-98ae-a7d75e4801f2",
+    "data": [
+      {
+        "text": "How can I reduce or avoid the risk of spreading the virus when coughing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

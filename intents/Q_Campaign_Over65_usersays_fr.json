@@ -1,0 +1,38 @@
+[
+  {
+    "id": "227159d1-2ff3-4644-9a5c-d3396963aed3",
+    "data": [
+      {
+        "text": "Qui fait partie du groupe à risque?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89478e86-d743-40d2-88e2-e92d3117d144",
+    "data": [
+      {
+        "text": "J\u0027ai plus de 65 ans. Comment je dois comporter contre coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe67b160-eca4-4465-8d9a-8c09b8f93a3b",
+    "data": [
+      {
+        "text": "Quelles sont les règles pour les seniors?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

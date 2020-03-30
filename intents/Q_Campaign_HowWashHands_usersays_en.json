@@ -1,0 +1,50 @@
+[
+  {
+    "id": "bb2fd46b-5c39-4963-b01c-b536c891c242",
+    "data": [
+      {
+        "text": "How should I wash my hands?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e623efc-0685-40a0-9ca9-a8fb47c0775c",
+    "data": [
+      {
+        "text": "Wash hands instructions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a02fc166-1953-49fa-bad5-fb8f526b6074",
+    "data": [
+      {
+        "text": "How to wash hands",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93487915-c77d-447b-ad6d-a4fd643b5c85",
+    "data": [
+      {
+        "text": "How do I wash my hands properly?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

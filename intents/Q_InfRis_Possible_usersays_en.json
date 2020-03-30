@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5a2e374f-848b-4408-a760-045d3f1bd978",
+    "data": [
+      {
+        "text": "infection risk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de099de5-1aa3-4454-a5d3-4731255d3708",
+    "data": [
+      {
+        "text": "Am I at risk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "001fee95-a65b-4d29-be1f-35f51d878a7f",
+    "data": [
+      {
+        "text": "Corona switzerland",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0fe0489-a5ca-4f6b-b017-04e29f49d0d1",
+    "data": [
+      {
+        "text": "Can I get infected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f870ffce-def1-4109-ab90-91f747ad9e0f",
+    "data": [
+      {
+        "text": " Is it possible to be infected with the new coronavirus in Switzerland?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

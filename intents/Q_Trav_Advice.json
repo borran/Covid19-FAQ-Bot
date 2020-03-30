@@ -1,0 +1,56 @@
+{
+  "id": "f0832a3d-779d-4527-beda-2f87f69ce811",
+  "name": "Q_Trav_Advice",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bc6d64ab-df8c-47b4-97a8-489e4a6763d3",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Informationen dazu finden Sie auf der Seite \"Empfehlungen für Reisende\""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You can find information about this on the page Recommendations for travellers on www.bag.admin.ch"
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Le risque d’une infection au nouveau coronavirus existe dans presque toutes les régions du monde. De nombreux pays ferment leurs frontières ou prennent d’autres mesures. Des vols sont suspendus. Les déplacements à l\u0027étranger ne sont presque plus possibles."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

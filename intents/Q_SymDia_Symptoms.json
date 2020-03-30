@@ -1,0 +1,43 @@
+{
+  "id": "937e9d98-2ab5-4112-806a-9c9db061be08",
+  "name": "Q_SymDia_Symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The symptoms are general and very variable. The following symptoms can occur:\n\n    Cough (usually dry)\n    Sore throat\n    Shortness of breath\n    High temperature, feverishness\n    Muscle ache\n\nMore rarely:\n\n    Headache\n    Gastrointestinal symptoms\n    Head cold\n\nThe symptoms can vary in severity. Complications such as pneumonia are also possible.\n\nYou have to stay at home for 10 days once one of these symptoms occurs. Follow the instructions on self-isolation. Avoid all contact with other people during this time. Stay at home for a further 48 hours after you have recovered.\n\nMost people will only experience a mild illness. However, in particular those over the age of 65, or those with an underlying medical condition could become seriously ill. Further information can be found under People at especially high risk and COVID-19, symptoms and treatment, origins of the new coronavirus."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Les symptômes, très variables, ne sont pas spécifiques. Il peut s\u0027agir de :\n\ntoux (toux sèche irritante)\nmaux de gorge\ninsuffisance respiratoire\nfièvre, sensation de fièvre\ndouleurs musculaires\nPlus rarement :\n\nmaux de tête\nsymptômes gastro-intestinaux\nrhume\nCes symptômes peuvent être de gravité variable. Des complications de type pneumonie sont également possibles.\n\nLorsqu’un de ces symptômes apparaît, vous devez rester au moins 10 jours à la maison en respectant les consignes sur l\u0027auto-isolement. Durant cette période, évitez tout contact avec d’autres personnes. Après votre rétablissement complet, restez encore 48 heures chez vous.\n\nChez la plupart des personnes, la maladie se déroule sans problèmes majeurs. Les personnes de plus de 65 ans et celles souffrant déjà d’une maladie peuvent cependant tomber gravement malades. Vous trouverez plus d\u0027informations à ce sujet sur les pages Groupes particulièrement à risque et Maladie COVID-19, Symptômes et traitement, origine du nouveau coronavirus."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Die Symptome sind sehr variabel und unspezifisch. Folgende Symptome können auftreten:\n\nHusten (meist trocken)\nHalsschmerzen\nKurzatmigkeit\nFieber, Fiebergefühl\nMuskelschmerzen\nSelten sind:\n\nKopfschmerzen\nMagen-Darm-Symptome\nSchnupfen\nDie Symptome können unterschiedlich schwer sein. Ebenfalls möglich sind Komplikationen wie eine Lungenentzündung.\n\nAb Auftreten eines dieser Symptome müssen Sie für 10 Tage zu Hause bleiben. Halten Sie sich dabei an die Anweisungen zur Selbst-Isolation. Vermeiden Sie während dieser Zeit jeden Kontakt zu anderen Personen. Nachdem Sie vollständig genesen sind, bleiben Sie weitere 48 Stunden zu Hause.\nFür die meisten Menschen verläuft die Krankheit mild. Jedoch können vor allem Personen ab 65 Jahren oder Personen mit einer Vorerkrankung schwer erkranken. Informationen dazu finden Sie auf den Seiten Besonders gefährdete Menschen und Krankeit COVID-19, Symptome und Behandlung, Ursprung neues Coronavirus."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

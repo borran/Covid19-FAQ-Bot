@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2f6716e5-9d75-461a-9a54-8821fd7ae3c5",
+    "data": [
+      {
+        "text": "Are mountain huts open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa7ee1da-83af-43db-9080-15b1f06c5587",
+    "data": [
+      {
+        "text": "Is ArirBnB allowed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01ac6939-ff4f-49b4-8e8f-f4e2898cf0fd",
+    "data": [
+      {
+        "text": "Are motels exempted?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7019e185-e89d-4f91-ad50-16ecfc0ff80a",
+    "data": [
+      {
+        "text": "Hotels are exempted from the new rules and do not have to close. What about motels, youth hostels and SAC mountain huts? Are properties offered on Airbnb also exempted?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

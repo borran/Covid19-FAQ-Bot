@@ -1,0 +1,74 @@
+[
+  {
+    "id": "2d3965ff-4f8a-493b-ab1a-b0c3eee227ee",
+    "data": [
+      {
+        "text": "How do I know if I\u0027m infected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d87be25e-e930-4e6a-95ff-3bc9455e4d59",
+    "data": [
+      {
+        "text": "What is the procedure to detect COVID19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a7b6a38-2f36-4ffc-b83f-33f44eed88d9",
+    "data": [
+      {
+        "text": "How is corona tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44c49aaa-a106-4295-aacb-68291539513b",
+    "data": [
+      {
+        "text": "How do doctors check for corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06cf729a-76f3-46f7-9587-7f06c7b1b0d4",
+    "data": [
+      {
+        "text": "How is corona detected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "daa175ca-d8f8-45d2-91bd-f68535ba846d",
+    "data": [
+      {
+        "text": "How is an infection with the new coronavirus detected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

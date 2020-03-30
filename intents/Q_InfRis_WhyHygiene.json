@@ -1,0 +1,43 @@
+{
+  "id": "6854370b-cba6-40d8-b7a5-55e9c207f9f4",
+  "name": "Q_InfRis_WhyHygiene",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Beim Coronavirus handelt sich um ein neues Virus, gegen das der Mensch noch keine Immunabwehr hat. Es kann zu vielen Ansteckungen und Erkrankungen kommen. Deshalb müssen wir die Ausbreitung des neuen Coronavirus möglichst verlangsamen.\n\nBesonders Personen mit einem höheren Risiko, schwer zu erkranken, müssen wir schützen. Das sind die über 65-jähringen und solche mit einer Vorerkrankung wie Bluthochdruck, Diabetes, Herz-Kreislauf-Erkrankungen, chronischen Atemwegserkrankungen, Krebs sowie Erkrankungen und Therapien, die das Immunsystem schwächen.\n\nWenn wir uns alle an die Regeln halten (siehe Seite «So schützen wir uns»), können wir auch diese Personen besser schützen. Damit tragen wir auch dazu bei, dass Menschen mit schweren Erkrankungen in den Gesundheitseinrichtungen weiterhin gut behandelt werden. Denn auf den Intensivstationen sind die Behandlungsräume und Beatmungsgeräte begrenzt verfügbar."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "We are dealing with a new virus against which humans have not yet developed immunity. That is why so many people are being infected and developing the disease, and why the spread of the new coronavirus must be delayed as far as possible.\n\nIn particular those at high risk of becoming seriously ill must be protected. These include people over the age of 65, and those with underlying health conditions (high blood pressure, diabetes, cardiovascular diseases, chronic respiratory diseases, cancer) and those with diseases or receiving treatments that weaken the immune system.\n\nIf we follow all of the rules, we can reduce the risk of exposing these people to the infection. That way we can also ensure that our health system is able to continue to provide good treatment to those who are seriously ill."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Le coronavirus est un nouvel agent pathogène contre lequel l\u0027être humain n\u0027a encore aucune défense immunitaire. Il peut donc provoquer beaucoup d\u0027infections et de maladies. Sa propagation doit être ralentie dans toute la mesure du possible.  Il faut protéger en particulier les personnes présentant un risque accru de développer une forme grave de maladie. Il s\u0027agit des personnes de plus de 65 ans ou déjà atteintes d\u0027une maladie (hypertension artérielle, diabète, maladies cardio-vasculaires, affections chroniques des voies respiratoires, cancer, faiblesse immunitaire due à une maladie ou à un traitement).  Si tout le monde respecte ces règles, nous amélior"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

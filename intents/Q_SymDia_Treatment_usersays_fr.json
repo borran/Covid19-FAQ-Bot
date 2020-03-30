@@ -1,0 +1,60 @@
+[
+  {
+    "id": "578aece4-3e03-461d-8672-af863ea09d31",
+    "data": [
+      {
+        "text": "est-ce qu\u0027il y ",
+        "userDefined": false
+      },
+      {
+        "text": "a un",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " traitement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58204b12-a609-4b08-be7b-40dbd2c889a2",
+    "data": [
+      {
+        "text": "Comment on peut se soigner de coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd2a7293-e791-457c-b2e1-aae888d41d77",
+    "data": [
+      {
+        "text": "Quels sont les treatments contre coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47b2cbba-70fb-49aa-9a30-e66de359c25c",
+    "data": [
+      {
+        "text": "Comment se traite une infection au nouveau coronavirus ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

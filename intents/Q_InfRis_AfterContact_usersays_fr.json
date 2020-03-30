@@ -1,0 +1,26 @@
+[
+  {
+    "id": "496c0e00-90a7-4b51-ab76-326551837b6c",
+    "data": [
+      {
+        "text": "J\u0027étais en contact avec une personne infectée par le nouveau coronavirus. Je dois faire quoi ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18862608-d218-4dd6-aa72-2665f27200e6",
+    "data": [
+      {
+        "text": "Que devez-vous faire si vous avez été en contact avec une personne infectée par le nouveau coronavirus ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

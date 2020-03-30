@@ -1,0 +1,140 @@
+{
+  "id": "1054c49e-b98a-4a88-9d16-efabe5b1d9df",
+  "name": "Q_Ban_Exemption",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ff027d7d-a134-4973-b646-ca428463fc9f",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "11f1b1e4-4458-487b-9260-12f6c8ebfd40",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "ec459696-9512-4205-a6a0-5f0394b932f1",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name1",
+          "value": "$last-name1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7e5edc19-c020-413c-b314-ec16ef6b8a53",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location1",
+          "value": "$location1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "fd330e38-290a-47f7-8378-223966d0bf83",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "09abac6b-2197-447a-bb9d-783b897322e6",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "6a1bce7f-00f3-4b45-b1a3-7e64f68229ed",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e4ca6734-cf8a-4f3d-ac1d-5a91af3ad6fe",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time1",
+          "value": "$date-time1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Als Gesundheitsfachpersonen gemäss Gesundheitsberufegesetz des Bundes gelten:\n\nPflegefachfrau/Pflegefachmann,\nPhysiotherapeutin/Physiotherapeut\nErgotherapeutin/Ergotherapeut\nHebamme/Entbindungspfleger\nErnährungsberaterin/Ernährungsberater\nOptometristin/Optometrist\nOsteopathin/Osteopath\nAls Gesundheitsfachpersonen nach kantonalem Recht gelten etwa zusätzlich:\n\nAkupunkteurin/Akupunkteur\nAugenoptikerin/Augenoptiker\nDentalhygienikerin/Dentalhygieniker\nErgotherapeutin/Ergotherapeut\nPsychotherapeutin/Psychotherapeut\nHeilpraktikerin/Heilpraktiker\nHomöopathin/Homöopath\nPodologin/Podologe\nTherapeutin/Therapeut der traditionellen chinesischen Medizin (TCM)\nIn der aktuellen Situation müssen die Gesundheitseinrichtungen auf sogenannte Wahleingriffe oder weitere, aus medizinischer Sicht nicht dringliche und damit verschiebbare Eingriffe und Behandlungen verzichten (vgl. Art. 10a Abs. 2 COVID-19-Verordnung 2)."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Health professionals under the Healthcare Occupations Act are: registered nurses, physiotherapists, occupational therapists, midwives, nutritionists, optometrists, and osteopaths.\n\nUnder cantonal law the following are also considered health professionals: acupuncturists, opticians, dental hygienists, occupational therapists, psychotherapists, healing practitioners, homeopaths, podiatrists, and therapists in Traditional Chinese Medicine (TCM)."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Les établissements de santé comme les hôpitaux, les cliniques, les cabinets médicaux ainsi que les cabinets et les structures des professionnels de la santé visés par le droit fédéral et cantonal ne doivent pas fermer. Dans la situation actuelle, les établissements de santé doivent renoncer aux interventions électives et aux autres interventions et traitements non urgents pouvant être repoussés. Les professionnels de la santé au sens de la loi fédérale sur les professions de la santé sont :\n\nles professionnels des soins\nles physiothérapeutes\nles ergothérapeutes\nles sages-femmes\nles diététiciens\nles optométristes\nles ostéopathes\nLe droit cantonal reconnaît également en tant que professionnels de la santé :\n\nles acuponcteurs\nles opticiens\nles hygiénistes dentaires\nles ergothérapeutes\nles psychothérapeutes\nles naturopathes\nles homéopathes\nles podologues\nles thérapeutes en médecine traditionnelle chinoise"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

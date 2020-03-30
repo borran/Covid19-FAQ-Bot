@@ -1,0 +1,68 @@
+{
+  "id": "15e5a51d-7bb1-4b9d-89d1-eaa07acf2921",
+  "name": "Q_SymDia_Treatment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8c94939b-ceca-4a44-801a-12e4820a1181",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "4e6e7e4f-62ca-4db8-a20f-3d921c4c77fa",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "À ce jour, il n’existe aucun traitement contre les infections dues aux coronavirus. Les possibilités thérapeutiques se limitent à traiter les symptômes. Les malades sont isolés pour protéger les autres personnes.\n\nEn cas d’infection grave, il faut souvent un traitement aux soins intensifs. Parfois, une respiration artificielle est nécessaire."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Bisher gibt es keine Behandlung für Erkrankungen mit Coronaviren. Die Behandlung beschränkt sich auf die Linderung der Symptome. Erkrankte werden zum Schutz anderer Personen isoliert.\n\nBei einer schweren Erkrankung ist meist eine Behandlung auf der Intensivstation erforderlich. Unter Umständen braucht es eine künstliche Beatmung."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "At the moment there is no specific treatment for the disease caused by the coronavirus. Treatment is limited to easing the symptoms. To protect other people, those infected are placed in isolation. In serious cases, patients usually require intensive care, which may involve artificial ventilation."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

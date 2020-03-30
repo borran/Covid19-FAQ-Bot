@@ -1,0 +1,120 @@
+[
+  {
+    "id": "06fd29f8-da60-46cd-9e12-7c10e8f2471c",
+    "data": [
+      {
+        "text": "What is the latest news?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e59d0eb-9eaf-4f85-9621-9d49336cc28f",
+    "data": [
+      {
+        "text": "Is the curve flattening?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3160d501-d363-4409-ad4a-714451fe6811",
+    "data": [
+      {
+        "text": "What is the situation in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bern",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b85ba19-7ad7-4365-a490-472dacb87fc7",
+    "data": [
+      {
+        "text": "How many infected today in ",
+        "userDefined": false
+      },
+      {
+        "text": "Zurich",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d0a9240-6274-49ab-94a8-1a4915e86a0b",
+    "data": [
+      {
+        "text": "How many infected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95947134-2993-478e-b8ba-c8fd1599be4f",
+    "data": [
+      {
+        "text": "Live status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb49b607-af46-4d1c-aae3-47b50039de01",
+    "data": [
+      {
+        "text": "What is the status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1b22094-2c04-491c-be0b-1c73d58d1707",
+    "data": [
+      {
+        "text": "How many death ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

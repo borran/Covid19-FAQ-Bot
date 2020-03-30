@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ec857bfc-7ebc-48ba-bbf1-d90a1e593ff1",
+    "data": [
+      {
+        "text": "Kirche",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d83718e7-b4e2-4a4a-9191-477f536867de",
+    "data": [
+      {
+        "text": "Finden Gottesdienste statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b438b2b-a65d-4ac1-9ec5-a44d1ce00d0a",
+    "data": [
+      {
+        "text": " Darf ich in die Kirche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "546617e3-7d78-4d20-9a3a-18ef7c25816b",
+    "data": [
+      {
+        "text": "Darf ich in ",
+        "userDefined": false
+      },
+      {
+        "text": "ein Gotteshaus",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

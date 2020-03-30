@@ -1,0 +1,50 @@
+{
+  "id": "88f91f39-bfb8-40ed-b9da-92ffecd542a4",
+  "name": "Q_Campaign_DontShakeHands",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5f720cd3-4286-40ea-9df6-a0aa1880c14b",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Selon ce que nous venons de toucher, nos mains ne sont pas propres. Des gouttelettes infectieuses provenant de la toux et des éternuements peuvent se trouver sur les mains. Ces gouttelettes peuvent atteindre la bouche, le nez ou les yeux si nous les touchons. Il est donc important d\u0027éviter les poignées de main.\n\nVoici comment nous protéger d’une infection :\n\nne pas se serrer la main\nrenoncer à se faire la bise;\nne pas se toucher le nez, la bouche et les yeux."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Depending on what we have just touched, our hands are not clean. Infectious droplets from coughing and sneezing can get onto your hands. They can then get into your system when you touch your mouth, nose or eyes. It’s therefore important not to shake hands. We can also protect ourselves from infection by:\n\n    Not shaking hands.\n    Not kissing to greet people.\n    Not touching your nose, mouth and eyes."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

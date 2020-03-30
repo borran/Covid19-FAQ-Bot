@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e3a96971-90e7-4e0f-b0a8-64d89391196e",
+    "data": [
+      {
+        "text": "Muss ich mich isolieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91076224-4945-4c02-88a9-fc9e5e108a52",
+    "data": [
+      {
+        "text": "Was ist Selbstisolation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "188a297c-dce7-4f5f-9ef1-edf2de3806f0",
+    "data": [
+      {
+        "text": " Was ist «Selbst-Isolation» und was muss ich dabei beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

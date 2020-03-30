@@ -1,0 +1,47 @@
+[
+  {
+    "id": "a0750455-fb32-416e-98c2-b7f2f9a0fa93",
+    "data": [
+      {
+        "text": "Est-ce que ",
+        "userDefined": false
+      },
+      {
+        "text": "les boucher",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " travaillent?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2e9b9d9f-50d2-41b3-b2f5-0ee56af46c58",
+    "data": [
+      {
+        "text": "Est-ce que les boulangers travaillent?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "283229df-60a3-4695-aab6-54a62c81b8f2",
+    "data": [
+      {
+        "text": " Les boulangeries et boucheries peuvent-elles rester ouvertes ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

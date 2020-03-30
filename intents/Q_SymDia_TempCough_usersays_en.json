@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0646578c-61ca-4728-9831-a23913cd42af",
+    "data": [
+      {
+        "text": "What should I do if I feel sick?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "864a4db3-c4ff-4ce1-82e0-3be2e093afc4",
+    "data": [
+      {
+        "text": "I have symptoms. What should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "129278e4-620a-45cc-aafa-e055fd8937d8",
+    "data": [
+      {
+        "text": " I have a high temperature and a cough. What should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "38d51bab-2f4d-4d65-9e65-0b091974971e",
+    "data": [
+      {
+        "text": "Welche Regelungen gelten für AirBNBs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d414ae9-8788-4b3b-81df-22d7c2e78185",
+    "data": [
+      {
+        "text": "Sind SAC-",
+        "userDefined": false
+      },
+      {
+        "text": "Hütten",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " weiterhin offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a4cc0f8-ae7e-4f08-a1fc-436dfe4506c7",
+    "data": [
+      {
+        "text": "Dürfen ",
+        "userDefined": false
+      },
+      {
+        "text": "Motels",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " geöffnet bleiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3907197-6ee4-400c-a580-4f7f1e4f6b35",
+    "data": [
+      {
+        "text": " Hotels sind als Ausnahme vorgesehen und müssen nicht geschlossen werden. Was ist mit Motels, Jugendherbergen, SAC-Hütten und AirBNB-Angeboten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

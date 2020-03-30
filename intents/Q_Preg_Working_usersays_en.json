@@ -1,0 +1,38 @@
+[
+  {
+    "id": "46421fca-9b99-45a4-9c97-7126455095d4",
+    "data": [
+      {
+        "text": "Pregnant and go to work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a993d76f-2751-4b1f-a9a5-ad20a119b2b6",
+    "data": [
+      {
+        "text": "Can pregnant people work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c6edb8e-ed99-4041-becb-9d773cc8ef54",
+    "data": [
+      {
+        "text": "I\u0027m pregnant and still going to work. Does that pose a threat to me and my unborn child?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

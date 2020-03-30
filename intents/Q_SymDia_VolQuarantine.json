@@ -1,0 +1,43 @@
+{
+  "id": "d010c1bc-2c23-44f4-a4fd-1ecaafad6880",
+  "name": "Q_SymDia_VolQuarantine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "In voluntary quarantine, the people who live with or have intimate contact with a person with the disease stay at home voluntarily and minimize their contact with other people.\n\nIf members of a family living together in the same household are in voluntary quarantine, the healthy members can continue to have contact with each other. The person with the disease, however, should remain in self-isolation and avoid contact with the others.\n\nThe healthy family members can come out of quarantine if they have not developed symptoms after ten days. Ten days is the period within which most people display the first symptoms.\n\nIf symptoms of illness arise during quarantine, the person affected must also go into self-isolation. They only have to go to the doctor if their state of health requires or if they are a person at especially high risk."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "En cas de quarantaine volontaire, les personnes qui vivent ou ont eu des contacts intimes avec une personne malade restent volontairement à domicile et réduisent à un minimum les contacts\n\nSi une famille est en quarantaine volontaire dans le même ménage, les personnes en bonne santé peuvent maintenir leur contact. Cependant, la personne malade devrait éviter tout contact avec les autres\n\nLes membres de la famille en bonne santé peuvent mettre fin à la quarantaine après dix jours s’ils restent en bonne santé. La plupart des personnes présentent des symptômes dans les dix premiers jours.\n\nSi des symptômes de maladie apparaissent pendant la quarantaine, la personne concernée doit également se mettre en auto-isolement. Elle ne doit consulter un médecin que si son état de santé l’exige ou si elle est une personne particulièrement à risque."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "In der freiwilligen Quarantäne bleiben die Personen, die mit einer erkrankten Person zusammenleben oder mit einer erkrankten Person intimen Kontakt hatten, freiwillig zu Hause und minimieren den Kontakt zu anderen Menschen (siehe Seite «Selbst-Isolation und Selbst-Quarantäne» sowie das Merkblatt «Selbst-Quarantäne» weiter unten im Register «Dokumente»).\n\nWenn eine Familie gemeinsam im selben Haushalt unter freiwilliger Quarantäne steht, können die gesunden Personen untereinander Kontakt halten. Die erkrankte Person jedoch sollte in Selbst-Isolation den Kontakt mit den anderen meiden (siehe Seite «Selbst-Isolation und Selbst-Quarantäne» sowie das Merkblatt «Selbst-Isolation» weiter unten im Register «Dokumente»).\n\nDie gesunden Familienmitglieder können die Quarantäne nach zehn Tagen beenden, wenn sie gesund bleiben. Zehn Tage ist der Zeitraum, in dem die meisten Personen die ersten Symptome zeigen.\n\nTreten während der Quarantäne Krankheitssymptome auf, muss die betroffene Person auch in Selbst-Isolation. Sie muss nur dann zum Arzt, wenn ihr Gesundheitszustand dies erfordert oder sie eine besonders gefährdete Person ist."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

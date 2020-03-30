@@ -1,0 +1,43 @@
+{
+  "id": "f4af348b-6346-4006-8523-0197dd2d0a06",
+  "name": "Q_Preg_InfectedDue",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You should self-isolate at home and notify your gynaecologist straight away, as well as the hospital where you are due to give birth. If you have to go to the hospital or medical practice before the due date, or as an emergency case, call beforehand and tell them that you have tested positive for coronavirus. You will then be told what to do next. Travel to the appointment by car if at all possible."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Restez chez vous en auto-isolement et informez tout de suite votre gynécologue ainsi que l’hôpital où vous prévoyez d’accoucher. Si vous devez vous rendre à l’hôpital ou au cabinet du gynécologue avant le délai prévu pour l’accouchement ou en urgence, contactez-les d’abord par téléphone. Précisez-leur que vous avez été testée positive au coronavirus. Vous recevrez alors des informations concernant la marche à suivre. Privilégiez la voiture pour vous rendre à la consultation fixée."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Begeben Sie sich bei sich zu Hause in Selbst-Isolation und informieren Sie dringend Ihre Frauenärztin oder Ihren Frauenarzt sowie das Spital, bei dem Sie für die Geburt angemeldet sind. Wenn Sie vor dem erwarteten Geburtstermin oder notfallmässig ins Spital oder in die Praxis müssen, rufen Sie zuvor dort an. Berichten Sie, dass Sie positiv auf das Coronavirus getestet wurden. Sie erhalten dann Informationen zum weiteren Vorgehen. Zum vereinbarten Termin fahren Sie möglichst mit einem privaten Auto."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

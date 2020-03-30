@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2e95352d-6c59-443c-a4f6-ccdc75f1a1cb",
+    "data": [
+      {
+        "text": "Can I take antibiotics to treat coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0325ec6e-e336-49ce-bd8f-a360ed890931",
+    "data": [
+      {
+        "text": "Antibiotics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b3c8e33-7ead-4473-a083-799924f892cd",
+    "data": [
+      {
+        "text": "Can antibiotics help treat corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43fc2e78-7847-4d99-996d-896ba63f8571",
+    "data": [
+      {
+        "text": "Can COVID-19 (new coronavirus disease) be treated with antibiotics?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

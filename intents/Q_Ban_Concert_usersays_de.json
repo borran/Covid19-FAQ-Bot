@@ -1,0 +1,120 @@
+[
+  {
+    "id": "927abdc5-dce3-47cc-b7bd-e3abe2e3d433",
+    "data": [
+      {
+        "text": "Kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "an einen Tag",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " der offenen ",
+        "userDefined": false
+      },
+      {
+        "text": "Tür",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35485cbf-f8c4-403c-9457-b0fab65457b2",
+    "data": [
+      {
+        "text": "Darf ich an ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " privates Fest gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c956d54-4290-42ec-a546-34daee3320e3",
+    "data": [
+      {
+        "text": "Darf ich noch ins ",
+        "userDefined": false
+      },
+      {
+        "text": "Theater",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d890c49-4fee-4e4c-be85-415f7fc4ef1f",
+    "data": [
+      {
+        "text": "Kann ich noch an ",
+        "userDefined": false
+      },
+      {
+        "text": "ein Konzert",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af745960-ef77-4358-ba5d-937c65242780",
+    "data": [
+      {
+        "text": " Kann ich noch an ein ",
+        "userDefined": false
+      },
+      {
+        "text": "Konzert",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ", ins Theater, an ein Fest oder einen Tag der offenen Tür?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

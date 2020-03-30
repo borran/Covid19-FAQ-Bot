@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c941e0b4-9a69-4a68-ac7c-ec73a24512e1",
+    "data": [
+      {
+        "text": "Are children allowed to play together?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92e3149f-1dd3-4a61-bbad-ef12e5272437",
+    "data": [
+      {
+        "text": "Can children play together?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d2ca8e2-a458-4cd4-b146-4e741be4414f",
+    "data": [
+      {
+        "text": " Are children still allowed to meet up with friends to play?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

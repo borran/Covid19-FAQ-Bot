@@ -1,0 +1,50 @@
+{
+  "id": "1bc52a6d-e6f8-4389-b59b-50f532776770",
+  "name": "Q_Campaign_Over65",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c6232b5e-c9a5-4099-ae47-16dfef751bcd",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Si vous avez plus de 65 ans ou avez une maladie, nous vous recommandons instamment de rester chez vous. N’utilisez aucun transport public.\nDemandez à vos amis ou vos voisins de faire les courses pour vous.\nOrganisez vos rendez-vous professionnels et privés sur Skype ou via un moyen de communication similaire.\nÉvitez tout contact. Si vous avez des difficultés à respirer, de la toux ou de la fièvre, restez chez vous. Appelez tout de suite votre médecin ou un hôpital. Expliquez que vous appelez à cause du nouveau coronavirus et que vous avez un risque élevé de tomber malade. Décrivez vos symptômes."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Stay at home.\n    Avoid public transport.\n    Have a friend or neighbor get your shopping for you.\n    Conduct business and private meetings via Skype or similar channels.\n    Keep visits to nursing homes and hospitals to an absolute minimum.\n    Avoid contact with people.\n    Stay at home if you have difficulties breathing, a cough or a high temperature. Call your doctor or a hospital immediately. State that you are calling in connection with the new coronavirus and are at a higher risk of illness. Describe your symptoms."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

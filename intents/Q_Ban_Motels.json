@@ -1,0 +1,56 @@
+{
+  "id": "62ca2f64-4427-438b-a638-288b7cb55615",
+  "name": "Q_Ban_Motels",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2f70f451-de13-4fc7-8ebd-629619748492",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Motels, Jugendherbergen und SAC-Hütten fallen auch unter die Ausnahmeregelung für Hotels und können weiterbetrieben werden.\n\nBei AirBNB-Angeboten handelt es sich um die temporäre Vermietung von Privatwohnungen oder Teilen davon. Sie unterliegen keiner Einschränkung und dürfen weiterhin vermietet werden."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Motels, youth hostels and SAC mountain huts are also covered by the exemption for hotels. Properties offered on Airbnb are short-term rentals and are therefore not covered by any restrictions."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Une exception est prévue pour les hôtels, qui n\u0027ont pas besoin de fermer. Les motels, les auberges de jeunesse et les cabanes du CAS sont aussi compris dans l’exception valable pour les hôtels et peuvent continuer leur activité.\n\nConcernant les offres AirBNB, il s’agit de la location temporaire d’un logement privé ou d’une partie ; il n’existe aucune limitation dans ce domaine, et les locations peuvent continuer."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

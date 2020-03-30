@@ -1,0 +1,37 @@
+{
+  "id": "49e388ef-089a-4310-9a17-e3b4e946fb40",
+  "name": "Q_Campaign_RulesOfHygiene",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "In short: Keep your distance. Wash your hands thoroughly. Don’t shake hands. Cough and sneeze into a paper tissue or the crook of your arm. Stay at home from now on. Always call ahead before going to the doctor’s or the emergency department."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Gardez vos distances avec les autres personnes. Vous pouvez contracter le nouveau coronavirus lorsque votre distance avec une personne malade est de moins de deux mètres pendant plus de 15 minutes. En gardant vos distances, vous protégez les autres et vous-même."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

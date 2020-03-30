@@ -1,0 +1,124 @@
+[
+  {
+    "id": "61f8e338-b7ad-4603-a45d-c9309bd6d9ff",
+    "data": [
+      {
+        "text": "Wie kann ich behandelt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05518483-6cbf-4d66-9df5-ad692d4dad20",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " Behandlung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68df9838-69bf-42ca-8345-8760ff803046",
+    "data": [
+      {
+        "text": "Wie sieht ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " Behandlung aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ab10c4f-4732-49cb-997c-42a937d8ae61",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " Behandlung bei Coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24a6e745-42e0-471e-9145-0ee86d3ee535",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " Behandlung bei ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1b4f8ba-7cae-4ba7-9d5f-783f96cbd520",
+    "data": [
+      {
+        "text": " Wie wird eine Erkrankung mit dem neuen Coronavirus behandelt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

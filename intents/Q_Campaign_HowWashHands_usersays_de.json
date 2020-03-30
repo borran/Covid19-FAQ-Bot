@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cad463a2-025f-4745-9a8d-6fdde7fe9f06",
+    "data": [
+      {
+        "text": "Wie oft soll ich meine Hände waschen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eeec408f-fc20-43cf-81c2-66cabc54ece9",
+    "data": [
+      {
+        "text": "Händewaschen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

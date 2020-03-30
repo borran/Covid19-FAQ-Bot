@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ff4dc12e-bdfa-48db-8609-3a6949cce3c1",
+    "data": [
+      {
+        "text": "Est-ce qu\u0027on peut organiser une manifestation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "300df5d0-7d0c-4c8e-9e2c-190011f67ecf",
+    "data": [
+      {
+        "text": "On organise une manifestation - c\u0027est permis ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

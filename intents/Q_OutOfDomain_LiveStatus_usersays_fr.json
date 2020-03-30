@@ -1,0 +1,83 @@
+[
+  {
+    "id": "68dc5a71-a20e-47e0-aed6-5929a6cbd366",
+    "data": [
+      {
+        "text": "Comment c\u0027est l\u0027évolution de covid19 en Suisse? à Berne? à Zurich? à Genève? à Lausanne? dans le canton de Vaud?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcf83d30-d811-4a49-a2a5-0131e8885d0e",
+    "data": [
+      {
+        "text": "Quelle est l\u0027état de coronavirus à ",
+        "userDefined": false
+      },
+      {
+        "text": "Berne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? à ",
+        "userDefined": false
+      },
+      {
+        "text": "Zurich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? à ",
+        "userDefined": false
+      },
+      {
+        "text": "Genève",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? à ",
+        "userDefined": false
+      },
+      {
+        "text": "Lausanne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? dans le canton de Vaud?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05756e5f-a81f-45cb-b0d9-cfe5e2c89011",
+    "data": [
+      {
+        "text": "Quelle est l\u0027état de coronavirus en ",
+        "userDefined": false
+      },
+      {
+        "text": "Suisse",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "8e25849d-bfac-4bf6-ace7-3f5ab021ec6b",
+    "data": [
+      {
+        "text": "Est-ce que les motels doivent fermer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23e475f9-7264-4887-bfa1-7dc7461992cf",
+    "data": [
+      {
+        "text": "Est-ce que ",
+        "userDefined": false
+      },
+      {
+        "text": "les hôtels",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sont ouverts?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48bf4004-8c57-49a6-913e-c47403a40186",
+    "data": [
+      {
+        "text": "Une exception est prévue pour les hôtels, qui n\u0027ont pas besoin de fermer. Qu\u0027en est-il des motels, des auberges de jeunesse, des cabanes du CAS et des offres AirBNB ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

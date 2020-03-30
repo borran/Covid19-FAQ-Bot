@@ -1,0 +1,86 @@
+[
+  {
+    "id": "2b458ebc-6866-444b-b09a-37cd898284a3",
+    "data": [
+      {
+        "text": "Can I go out for a beer with a friend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf3bfa5c-06c1-4165-8d8d-f9311d5ebadf",
+    "data": [
+      {
+        "text": "Can I have a birthday party?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "286f15d1-6f1e-460b-bc6b-fe9f67f55d4c",
+    "data": [
+      {
+        "text": "Is visiting friends banned?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45e1658d-c49c-476a-8d99-7d996f09362b",
+    "data": [
+      {
+        "text": "Can I visit my friends?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "900ffffb-ce08-4c02-a69a-cf65f081882a",
+    "data": [
+      {
+        "text": "See my friends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b871b6f-1197-48fa-b7fe-a6d6e344279c",
+    "data": [
+      {
+        "text": "Meet friends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d8d6e7d-c0cd-4445-9e78-aa87c8bd192f",
+    "data": [
+      {
+        "text": " Can I still meet up with my friends?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

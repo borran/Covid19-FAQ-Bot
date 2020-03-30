@@ -1,0 +1,124 @@
+[
+  {
+    "id": "7a12a2cf-f15b-4563-8315-5cc7d29115ba",
+    "data": [
+      {
+        "text": "Dürfen ",
+        "userDefined": false
+      },
+      {
+        "text": "Kinder",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " draussen spielen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5b85d68-3e74-4f3a-bdbf-018fba0cf15f",
+    "data": [
+      {
+        "text": "Dürfen ",
+        "userDefined": false
+      },
+      {
+        "text": "Kinder",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " spielen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5f3d6df-8482-4580-8504-c08d79276cfa",
+    "data": [
+      {
+        "text": "Wieviele ",
+        "userDefined": false
+      },
+      {
+        "text": "Kinder",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " dürfen miteinander spielen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76a367c6-3f32-4f70-9341-e763efb8227d",
+    "data": [
+      {
+        "text": "Dürfen ",
+        "userDefined": false
+      },
+      {
+        "text": "Kinder",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " miteinander spielen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "951c1455-1a55-42df-9af1-46c42239f274",
+    "data": [
+      {
+        "text": "Dürfen ",
+        "userDefined": false
+      },
+      {
+        "text": "Kinder",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " ihre Freunde treffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9dcecc13-da4a-40f6-8a78-593955a7eddf",
+    "data": [
+      {
+        "text": " Dürfen sich Kinder privat mit ihren Freunden zum Spielen treffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

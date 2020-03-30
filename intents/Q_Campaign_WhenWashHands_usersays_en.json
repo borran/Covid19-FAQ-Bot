@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4f05a2ec-2611-4c93-a9eb-500c1d6fef8c",
+    "data": [
+      {
+        "text": "After what activities should I wash my hands?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84f3457c-4cef-4598-8093-08b3589470d7",
+    "data": [
+      {
+        "text": "When should I wash my hands?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

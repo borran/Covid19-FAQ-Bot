@@ -1,0 +1,59 @@
+[
+  {
+    "id": "9984227a-f446-4205-a062-0da18d1ed526",
+    "data": [
+      {
+        "text": "Should I go to ",
+        "userDefined": false
+      },
+      {
+        "text": "the doctor",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b11b8ae-d293-4810-a40c-81f9f73924e2",
+    "data": [
+      {
+        "text": "call ahead",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf3fd1cf-a6b4-441d-8c95-aa89aed0007e",
+    "data": [
+      {
+        "text": "Should I call ahead before going to ",
+        "userDefined": false
+      },
+      {
+        "text": "the doctor",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "dba0b031-c680-4fed-81f5-06fd30bac8a4",
+    "data": [
+      {
+        "text": "Qui doit s\u0027isoler?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b6a6b6b-d1ea-4dfe-9055-e64ae450d3ac",
+    "data": [
+      {
+        "text": " Qu\u0027est-ce que l\u0027 « auto-isolement » et qu\u0027est-ce que je dois prendre en considération ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

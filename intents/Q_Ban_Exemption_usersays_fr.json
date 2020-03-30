@@ -1,0 +1,50 @@
+[
+  {
+    "id": "d14b3c60-e520-4328-8379-9c1df1137cc8",
+    "data": [
+      {
+        "text": "Est-ce que les cabinets médicaux sont fermé?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cab28d2b-13aa-4eb6-b43e-ccd080bdd16b",
+    "data": [
+      {
+        "text": "Est-ce que les cliniques dentaires sont ouvert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f683d06-c34d-47a5-b397-12ad197a8b99",
+    "data": [
+      {
+        "text": "Est-ce que les hôpitaux peuvent accepter des autres malades?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63cbe3ff-181b-4866-89e2-b21fd4d411fd",
+    "data": [
+      {
+        "text": "Les établissements de santé comme les hôpitaux, les cliniques, les cabinets médicaux ainsi que les cabinets et les structures des professionnels de la santé visés par le droit fédéral et cantonal ne doivent pas fermer. Lesquels sont compris dans cette exception ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

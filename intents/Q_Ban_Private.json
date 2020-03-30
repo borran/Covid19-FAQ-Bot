@@ -1,0 +1,56 @@
+{
+  "id": "55603bee-4d9d-47fe-a118-e3f6c88a226f",
+  "name": "Q_Ban_Private",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a4a2018d-58d5-464d-963e-997f1ab15bd6",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Private Essen im kleinen Kreis fallen zwar nicht unter das Verbot. In der aktuell kritischen Situation müssen wir jedoch alle unsere sozialen Kontakte möglichst reduzieren. Wir appellieren an Ihre Verantwortung: Vermeiden Sie alle sozialen Aktivitäten, die nicht zwingend notwendig sind.\n\nBitte beachten Sie in jedem Fall die Hygiene- und Verhaltensregeln (Abstand halten)."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Private meals do not fall under the ban. However, the recommendation is to keep social interaction to an absolute minimum. That way you can play a big part in slowing the spread of coronavirus. If you do have people round, be sure to follow the FOPH’s rules on hygiene and keeping your distance."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Les repas privés en petit comité ne sont pas interdits. Cependant, au vu de l’état critique de la situation, chacun doit réduire au maximum ses contacts sociaux. Nous en appelons à votre responsabilité individuelle : évitez toutes les activités sociales qui ne sont pas absolument nécessaires.\n\nDans tous les cas, respectez les règles d’hygiène et de conduite (garder ses distances)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

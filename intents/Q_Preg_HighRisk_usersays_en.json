@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9a863673-af61-4d76-aab4-534a5e8026ee",
+    "data": [
+      {
+        "text": "Am I specially at risk if I am pregnant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67ae0cc1-7208-4981-ac55-30dbd380cc72",
+    "data": [
+      {
+        "text": "Is a pregnant person at high risk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b73a6c9-aeb1-49df-8313-9f40b1791fed",
+    "data": [
+      {
+        "text": "Am I at especially high risk of becoming seriously ill with COVID-19 if I\u0027m pregnant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

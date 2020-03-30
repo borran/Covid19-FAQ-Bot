@@ -1,0 +1,41 @@
+{
+  "id": "067cc50c-f71e-47a5-8a38-80898482040a",
+  "name": "Q_Campaign_Distance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": [
+            "Gardez vos distances avec les autres personnes. Vous pouvez contracter le nouveau coronavirus lorsque votre distance avec une personne malade est de moins de deux mètres pendant plus de 15 minutes. En gardant vos distances, vous protégez les autres et vous-même.",
+            "Garder ses distances dans les transports publics",
+            "Évitez d’emprunter les transports publics"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Avoid groups of people.\n    Leave space between you and the person in front of you when standing in line (for example at the checkout, post office or canteen).\n    At meetings leave a seat free between you and the person next to you.\n    Keep your distance from close family and friends at especially high risk.\n    Keep visits to care homes and hospitals to an absolute minimum.\nAvoid using public transport. If possible, go to work on foot or by bicycle. If you have to use public transport, keep your distance on public transport."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

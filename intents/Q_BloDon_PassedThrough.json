@@ -1,0 +1,43 @@
+{
+  "id": "eaa15422-09a0-432e-b3ad-685e1b04f296",
+  "name": "Q_BloDon_PassedThrough",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Es gibt keine Anhaltspunkte, dass das Coronavirus über Blut übertragen werden kann. Die Übertragung des Virus über Blutspenden ist deshalb äusserst unwahrscheinlich."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There are no indications that the coronavirus can be passed on through the blood. The transmission of the virus via donated blood is therefore highly unlikely."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Rien ne laisse supposer que le coronavirus puisse être transmis par le sang. La transmission du virus via les dons de sang est donc très peu vraisemblable."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

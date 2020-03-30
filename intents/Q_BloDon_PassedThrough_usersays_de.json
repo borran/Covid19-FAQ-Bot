@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7e100d02-03d2-4bd9-b70d-589e3bacb476",
+    "data": [
+      {
+        "text": "Kann das Coronavirus über Blut übertragen werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32b97bff-7a3e-4cb5-b793-929bdfc67863",
+    "data": [
+      {
+        "text": " Können Coronaviren über das Blutspenden übertragen werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad0a4dba-f7ed-4397-8d54-0eb75a28d5b5",
+    "data": [
+      {
+        "text": "Können Coronaviren über das Blut weitergegeben werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "20f527cd-5d89-4d5b-89be-be9d8ca74724",
+    "data": [
+      {
+        "text": "Should I clean the object?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9a04e24-f788-480c-bff5-bbd84e8a4916",
+    "data": [
+      {
+        "text": "Should I regularly clean surfaces?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15ec9949-6e15-4ee0-9ce0-519e5086844d",
+    "data": [
+      {
+        "text": "Wash clothes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "932bb748-5e22-4d90-b15d-65082a7f24ce",
+    "data": [
+      {
+        "text": "How to clean laundry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9493276d-b660-4dfc-963b-e4cfcd7a3283",
+    "data": [
+      {
+        "text": "How can I clean the surfaces?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d63dc20b-49bc-41d7-846a-f7b2c0c0dae9",
+    "data": [
+      {
+        "text": "How can the coronavirus be removed from surfaces or laundry?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

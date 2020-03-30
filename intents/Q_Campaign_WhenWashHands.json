@@ -1,0 +1,37 @@
+{
+  "id": "d9fbd50b-d2f7-4ca8-b315-591b0c73c877",
+  "name": "Q_Campaign_WhenWashHands",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Il faut se laver les mains le plus souvent possible, en particulier :\n\navant de préparer les repas\navant de manger\navant de nourrir les enfants\naprès s’être mouché, avoir toussé ou éternué\nchaque fois que l’on rentre chez soi\naprès avoir utilisé les transports publics\naprès avoir rendu visite à une personne malade ou avoir eu un contact proche avec le matériel qu’elle utilise ou ses effets personnels\navant de mettre ou d’enlever ses lentilles de contact\naprès avoir retiré un masque\naprès être allé aux toilettes\naprès avoir changé une couche ou aidé un enfant à aller aux toilettes\naprès avoir manipulé des déchets\nchaque fois qu’on a les mains sales."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "As often as possible and in particular:\n\n    before preparing food,\n    before a meal,\n    before feeding children,\n    after blowing your nose, coughing or sneezing,\n    every time you come home,\n    after using public transport,\n    after visiting someone who is ill or after close contact with materials, equipment or personal items used by people who are ill,\n    before putting in or removing contact lenses,\n    after taking off a hygiene mask,\n    after going to the toilet,\n    after changing nappies or accompanying a child to the toilet,\n    after handling household waste,\n    if your hands are dirty."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

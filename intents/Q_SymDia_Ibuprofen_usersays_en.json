@@ -1,0 +1,50 @@
+[
+  {
+    "id": "d6ba985f-e210-407d-b2b8-a754ea0e12df",
+    "data": [
+      {
+        "text": "Should I take ibuprofen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46ab8fed-ed46-45e2-ac12-759303ccf096",
+    "data": [
+      {
+        "text": "Ibuprofen and corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4dd636c-5e69-4896-9087-c8eec9ae3d7e",
+    "data": [
+      {
+        "text": "Ibuprofen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fefd52c-2f77-47cd-b308-c75c783e3bc6",
+    "data": [
+      {
+        "text": " Is there a connection between Ibuprofen and COVID-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

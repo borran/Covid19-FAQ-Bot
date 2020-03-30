@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0d4f3908-9e0f-499a-990e-3aa99a97d4cc",
+    "data": [
+      {
+        "text": "Darf ich Freunde treffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f84e04a-8e65-4605-95a1-6e8646196ecb",
+    "data": [
+      {
+        "text": "Soziale Kontakte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91462cb9-1c38-485e-9e94-01d956f220e5",
+    "data": [
+      {
+        "text": " Darf ich mich mit Freunden treffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

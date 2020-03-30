@@ -1,0 +1,37 @@
+{
+  "id": "a2ab6134-e632-4437-b03a-83faa12c19d8",
+  "name": "Q_InfRis_TransmissionGoods",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "As a rule, a virus can only survive a few hours on objects. This means that packages (such as toys and other items) taking several days to get here are harmless."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "En règle générale, un virus ne peut survivre que quelques heures sur des objets. Cela signifie que les colis (tels que jouets et autres articles) qui mettent plusieurs jours à arriver ici sont inoffensifs."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

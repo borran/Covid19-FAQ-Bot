@@ -1,0 +1,118 @@
+[
+  {
+    "id": "3518fd2a-72cc-4976-a7aa-9b6a4ccd6aad",
+    "data": [
+      {
+        "text": "Wer zählt zu den Gesundheitsfachpersonen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "053074ae-fc74-4cd8-941d-99d694c365a4",
+    "data": [
+      {
+        "text": "Welche Praxen und Einrichtungen fallen unter diese Ausnahme?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17dbaa44-acee-4f43-a44d-2049d916fe8b",
+    "data": [
+      {
+        "text": "Gesundheitseinrichtungen wie Spitäler, ",
+        "userDefined": false
+      },
+      {
+        "text": "Kliniken",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " und Arztpraxen sowie Praxen und Einrichtungen von Gesundheitsfachpersonen gemäss ",
+        "userDefined": false
+      },
+      {
+        "text": "Bundes",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": "- und kantonalem ",
+        "userDefined": false
+      },
+      {
+        "text": "Recht",
+        "alias": "last-name1",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " müssen nicht geschlossen ",
+        "userDefined": false
+      },
+      {
+        "text": "werden (Art",
+        "alias": "location1",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " Abs. ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " Bst. m COVID",
+        "userDefined": false
+      },
+      {
+        "text": "-19",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "- Verordnung ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "date-time1",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ").",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

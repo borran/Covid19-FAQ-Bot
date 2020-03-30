@@ -1,0 +1,112 @@
+[
+  {
+    "id": "e121255b-17b2-43dd-8f47-6408e4538cb9",
+    "data": [
+      {
+        "text": "Touching eyes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5733290a-c6d5-4c02-8378-40119df56099",
+    "data": [
+      {
+        "text": "Touching nose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d40cc8ef-08d9-46ee-83df-5ad4c82fe1c0",
+    "data": [
+      {
+        "text": "Kiss greeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a96c24e6-3cb9-47c5-9ff4-22a69d94bf42",
+    "data": [
+      {
+        "text": "Kiss people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c594ffa7-b922-4980-94a5-803327c19fc8",
+    "data": [
+      {
+        "text": "Touch face",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06aa253e-b0da-452c-b0a6-c7241e766238",
+    "data": [
+      {
+        "text": "Can I touch my face?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7f69c56-f725-4097-90ed-64da6698082d",
+    "data": [
+      {
+        "text": "Is it ok to shake hands",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "077e5069-60a9-4f7d-b1d1-47e958ce5ae9",
+    "data": [
+      {
+        "text": "Rules of hand shaking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4ac96355-ec92-43c1-84d6-18f4548b3f69",
+    "data": [
+      {
+        "text": "Shake hands",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

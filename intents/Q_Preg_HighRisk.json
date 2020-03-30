@@ -1,0 +1,43 @@
+{
+  "id": "2f2d48c8-fa9b-4ce6-a79e-7b104cc5d250",
+  "name": "Q_Preg_HighRisk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There is no evidence at present that healthy pregnant women are at especially high risk of becoming seriously ill. Nevertheless, if you are pregnant you should take every precaution to protect yourself from becoming infected as an acute illness – particularly a cough and high temperature – can have an impact on the pregnancy.\n\nWe therefore recommend that you strictly follow the rules on hygiene and social distancing.\n\nYour employer is responsible for implementing protective measures in the workplace."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Si vous êtes enceinte et atteinte d’une maladie, une infection au nouveau coronavirus pourrait s’avérer dangereuse pour vous. Dans ce contexte, vous êtes donc considérée comme une personne vulnérable.\n\nNous vous recommandons instamment de suivre les recommandations émises pour les personnes vulnérables.\n\nEn cas de symptômes, contactez immédiatement votre gynécologue afin de convenir des mesures nécessaires."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Es gibt derzeit keine Hinweise darauf, dass gesunde schwangere Frauen ein erhöhtes Risiko für einen schweren Krankheitsverlauf haben. Wenn Sie schwanger sind, sollten Sie sich jedoch möglichst vor einer Infektion mit dem neuen Coronavirus schützen. Denn eine akute Krankheit – insbesondere Husten und Fieber – kann den Verlauf einer Schwangerschaft beeinflussen.\n\nHalten Sie sich deshalb unbedingt an die Hygiene- und Verhaltensregeln.\n\nAm Arbeitsplatz ist der Arbeitgeber für die Umsetzung der Schutzmassnahmen verantwortlich."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

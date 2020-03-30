@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4d05743b-77c1-4d67-af10-78e0f85e72ee",
+    "data": [
+      {
+        "text": "comment je peux attraper coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1279e2d5-d276-4acb-a496-5d44947e7173",
+    "data": [
+      {
+        "text": "Comment le nouveau coronavirus se transmet-il ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

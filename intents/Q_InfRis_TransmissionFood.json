@@ -1,0 +1,80 @@
+{
+  "id": "e5d9d05f-9c18-47a7-8a5f-038144b9db81",
+  "name": "Q_InfRis_TransmissionFood",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "80523ae3-4d6b-43f4-aec8-e80d2888a57c",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1910b70d-2448-4eb0-98f0-41c0c86a8244",
+          "required": false,
+          "dataType": "@Age",
+          "name": "Age",
+          "value": "$Age",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "2f95ae8b-f3ca-464d-90bc-acbf855ef9b0",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Eine Übertragung des neuen Coronavirus durch Lebensmittel auf den Menschen ist bis jetzt nicht bekannt.\n\nWenn Sie ganz sicher sein wollen: Waschen und erhitzen Sie die Lebensmittel gut. Mehr Informationen dazu finden Sie auf www.sichergeniessen.ch.\n\nZusätzlichen Schutz bieten die allgemeinen Hygieneregeln und Verhaltensregeln unserer Kampagne «so schützen wir uns»."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "So far there are no known cases of the new coronavirus being transmitted via foodstuffs.\n\nIf you want to be quite sure, wash and heat foods properly. You will find more information at www.sichergeniessen.ch."
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "À l\u0027heure actuelle, aucun cas de transmission du nouveau coronavirus à l\u0027être humain via des denrées alimentaires n\u0027est connu.  Si vous ne souhaitez prendre aucun risque, lavez et chauffez correctement les aliments. Vous trouverez plus d\u0027informations sur www.savourerensecurite.ch  Les règles d\u0027hygiène et de conduite de notre campagne « Voici comment nous protéger » apportent une protection supplémentaire."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
