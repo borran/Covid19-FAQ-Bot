@@ -2,13 +2,13 @@
 
 The goal of this bot / voice-assistant is to provide answers to questions asked on the Corona FAQ website provided by the [https://www.bag.admin.ch/bag/en/home.html](https://www.bag.admin.ch/bag/en/home.html) and collect questions which there is not an official answer to.
 
-## Inspiration
+## Inspiration
 There are many different sources of information related to Covid19 available on the internet. Not all of them are reliable. We would like to make official information and questions/answers regarding Covid19 available to the Suisse population in a more user friendly way. Also we would like to collect all frequent questions that do not exist on official websites and inform administrations to provide answers to those frequent questions.
 
 ## What it does
 It is a voice assistant and chatbot in 3 different languages English, German and French answering questions regarding Covid19. The content is from: [https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/haeufig-gestellte-fragen.html](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/haeufig-gestellte-fragen.html)
 
-## How we built it
+## How we built it
 We used DialogFlow from Google to make a PoC for this simple voice assistant using Google assistant. For the voice assistant we integrated it with the Dialogflow Phone Gateway (English) and Voximplant (German and French). The chatbot in English is integrated with Telegram.
 
 ## Challenges we ran into
@@ -25,12 +25,42 @@ We learned how well Google DialogFlow works and what are its limitations.
 - Add more questions and answers based on the collected frequent questions
 - Extend it for Italian
 
-## Built With
+## Built with
 - dialogflow
 - googleassistant
 
 ## Try it out
 - Using phone numers:
+**English:**
+(option 1): call +41435087297
+(option 2): call +1 484-232-8515
+
+**German:**
+(option 1): call +41315280731
+(option 2): call one the following numbers and then enter code 699103145
+    +74993504126 (Russia)
+    +19292240694 (US)
+    +48223970842 (Poland)
+    +81345790139 (Japan)
+    +97243720980 (Israel)
+    +420228880669 (Czech Republic)
+    +14388002812 (Canada)
+    +61283104145 (Australia)
+    +442038083060 (UK)
+
+**French:**
+(option 1): call +41215881577
+(option 2): call one the following numbers and then enter code 699103150
+    +74993504126 (Russia)
+    +19292240694 (US)
+    +48223970842 (Poland)
+    +81345790139 (Japan)
+    +97243720980 (Israel)
+    +420228880669 (Czech Republic)
+    +14388002812 (Canada)
+    +61283104145 (Australia)
+    +442038083060 (UK)
+    
 - Using web demo: [https://bot.dialogflow.com/f16afd53-ea1f-4f93-a272-23259b022e23](https://bot.dialogflow.com/f16afd53-ea1f-4f93-a272-23259b022e23)
 
 ## Rebuild the project
