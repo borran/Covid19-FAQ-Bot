@@ -32,3 +32,17 @@ We learned how well Google DialogFlow works and what are its limitations.
 ## Try it out
 - Using phone numers:
 - Using web demo: [https://bot.dialogflow.com/f16afd53-ea1f-4f93-a272-23259b022e23](https://bot.dialogflow.com/f16afd53-ea1f-4f93-a272-23259b022e23)
+
+## Rebuild the project
+1. Dowload this project and make a zip file.
+2. Go to [https://dialogflow.cloud.google.com/](https://dialogflow.cloud.google.com/) You need your google account to login.
+3. Create new agent: provide a name.
+4. Go to the settings: "Export and Import". Choose "RESTORE FROM ZIP" and upload the zip file that you made at step 1.
+5. Write IMPORT and press IMPORT.
+6. To test you can choose the language from left side and then start talking or writing on the left side.
+
+## Contributors:
+- Mostafa Ajallooeian
+- Giancarlo Bergamin
+- Fatemeh Borran
+- Melanie Calame
