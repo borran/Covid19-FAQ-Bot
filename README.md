@@ -30,38 +30,43 @@ We learned how well Google DialogFlow works and what are its limitations.
 - googleassistant
 
 ## Try it out
-- Using phone numers:
+1. Using phone numers:
+
 **English:**
-(option 1): call +41435087297
-(option 2): call +1 484-232-8515
+
+- (option 1): call +41435087297
+- (option 2): call +1 484-232-8515
 
 **German:**
-(option 1): call +41315280731
-(option 2): call one the following numbers and then enter code 699103145
-    +74993504126 (Russia)
-    +19292240694 (US)
-    +48223970842 (Poland)
-    +81345790139 (Japan)
-    +97243720980 (Israel)
-    +420228880669 (Czech Republic)
-    +14388002812 (Canada)
-    +61283104145 (Australia)
-    +442038083060 (UK)
+
+- (option 1): call +41315280731
+- (option 2): call one the following numbers and then enter code 699103145
+    - +74993504126 (Russia)
+    - +19292240694 (US)
+    - +48223970842 (Poland)
+    - +81345790139 (Japan)
+    - +97243720980 (Israel)
+    - +420228880669 (Czech Republic)
+    - +14388002812 (Canada)
+    - +61283104145 (Australia)
+    - +442038083060 (UK)
 
 **French:**
-(option 1): call +41215881577
-(option 2): call one the following numbers and then enter code 699103150
-    +74993504126 (Russia)
-    +19292240694 (US)
-    +48223970842 (Poland)
-    +81345790139 (Japan)
-    +97243720980 (Israel)
-    +420228880669 (Czech Republic)
-    +14388002812 (Canada)
-    +61283104145 (Australia)
-    +442038083060 (UK)
+
+- (option 1): call +41215881577
+- (option 2): call one the following numbers and then enter code 699103150
+    - +74993504126 (Russia)
+    - +19292240694 (US)
+    - +48223970842 (Poland)
+    - +81345790139 (Japan)
+    - +97243720980 (Israel)
+    - +420228880669 (Czech Republic)
+    - +14388002812 (Canada)
+    - +61283104145 (Australia)
+    - +442038083060 (UK)
     
-- Using web demo: [https://bot.dialogflow.com/f16afd53-ea1f-4f93-a272-23259b022e23](https://bot.dialogflow.com/f16afd53-ea1f-4f93-a272-23259b022e23)
+
+2. Using web demo: [https://bot.dialogflow.com/f16afd53-ea1f-4f93-a272-23259b022e23](https://bot.dialogflow.com/f16afd53-ea1f-4f93-a272-23259b022e23)
 
 ## Rebuild the project
 1. Dowload this project and make a zip file.
